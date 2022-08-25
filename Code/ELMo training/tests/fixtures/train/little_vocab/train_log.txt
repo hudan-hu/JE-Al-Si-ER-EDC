@@ -1,0 +1,125 @@
+Found 1 shards at /home/ubuntu/Downloads/bilm-tf-master (2)/tests/fixtures/train/little_vocab/sentences.txt
+Loading data from: /home/ubuntu/Downloads/bilm-tf-master (2)/tests/fixtures/train/little_vocab/sentences.txt
+Loaded 4382 sentences.
+Finished loading
+Found 1 shards at /home/ubuntu/Downloads/bilm-tf-master (2)/tests/fixtures/train/little_vocab/sentences.txt
+Loading data from: /home/ubuntu/Downloads/bilm-tf-master (2)/tests/fixtures/train/little_vocab/sentences.txt
+Loaded 4382 sentences.
+Finished loading
+1111111111111111111111 False
+USING SKIP CONNECTIONS
+1111111111111111111111 False
+USING SKIP CONNECTIONS
+1111111111111111111111 False
+USING SKIP CONNECTIONS
+[['global_step:0', TensorShape([])],
+ ['lm/RNN_0/rnn/multi_rnn_cell/cell_0/lstm_cell/bias:0',
+  TensorShape([Dimension(256)])],
+ ['lm/RNN_0/rnn/multi_rnn_cell/cell_0/lstm_cell/kernel:0',
+  TensorShape([Dimension(32), Dimension(256)])],
+ ['lm/RNN_0/rnn/multi_rnn_cell/cell_0/lstm_cell/projection/kernel:0',
+  TensorShape([Dimension(64), Dimension(16)])],
+ ['lm/RNN_0/rnn/multi_rnn_cell/cell_1/lstm_cell/bias:0',
+  TensorShape([Dimension(256)])],
+ ['lm/RNN_0/rnn/multi_rnn_cell/cell_1/lstm_cell/kernel:0',
+  TensorShape([Dimension(32), Dimension(256)])],
+ ['lm/RNN_0/rnn/multi_rnn_cell/cell_1/lstm_cell/projection/kernel:0',
+  TensorShape([Dimension(64), Dimension(16)])],
+ ['lm/RNN_1/rnn/multi_rnn_cell/cell_0/lstm_cell/bias:0',
+  TensorShape([Dimension(256)])],
+ ['lm/RNN_1/rnn/multi_rnn_cell/cell_0/lstm_cell/kernel:0',
+  TensorShape([Dimension(32), Dimension(256)])],
+ ['lm/RNN_1/rnn/multi_rnn_cell/cell_0/lstm_cell/projection/kernel:0',
+  TensorShape([Dimension(64), Dimension(16)])],
+ ['lm/RNN_1/rnn/multi_rnn_cell/cell_1/lstm_cell/bias:0',
+  TensorShape([Dimension(256)])],
+ ['lm/RNN_1/rnn/multi_rnn_cell/cell_1/lstm_cell/kernel:0',
+  TensorShape([Dimension(32), Dimension(256)])],
+ ['lm/RNN_1/rnn/multi_rnn_cell/cell_1/lstm_cell/projection/kernel:0',
+  TensorShape([Dimension(64), Dimension(16)])],
+ ['lm/embedding:0', TensorShape([Dimension(3877), Dimension(16)])],
+ ['lm/softmax/W:0', TensorShape([Dimension(3877), Dimension(16)])],
+ ['lm/softmax/b:0', TensorShape([Dimension(3877)])],
+ ['train_perplexity:0', TensorShape([])]]
+Training for 50 epochs and 3650 batches
+Batch 100, train_perplexity=24.069727
+Total time: 10.740985870361328
+Batch 200, train_perplexity=15.548248
+Total time: 14.954690933227539
+Batch 300, train_perplexity=12.8267975
+Total time: 19.411576986312866
+Batch 400, train_perplexity=11.659621
+Total time: 23.872251272201538
+Batch 500, train_perplexity=11.469669
+Total time: 28.099217414855957
+Batch 600, train_perplexity=11.202585
+Total time: 32.31180691719055
+Batch 700, train_perplexity=8.732257
+Total time: 36.642059326171875
+Batch 800, train_perplexity=10.241623
+Total time: 41.24097394943237
+Batch 900, train_perplexity=8.090693
+Total time: 45.52389311790466
+Batch 1000, train_perplexity=7.156616
+Total time: 49.686269998550415
+Batch 1100, train_perplexity=10.437184
+Total time: 53.7833468914032
+Batch 1200, train_perplexity=6.7291684
+Total time: 57.92665219306946
+Batch 1300, train_perplexity=7.8060584
+Total time: 71.0997166633606
+Batch 1400, train_perplexity=7.433354
+Total time: 75.12679052352905
+Batch 1500, train_perplexity=6.546304
+Total time: 79.4091432094574
+Batch 1600, train_perplexity=6.068818
+Total time: 83.64173078536987
+Batch 1700, train_perplexity=6.9997125
+Total time: 87.82877278327942
+Batch 1800, train_perplexity=6.639001
+Total time: 91.85555005073547
+Batch 1900, train_perplexity=6.645032
+Total time: 95.92814302444458
+Batch 2000, train_perplexity=6.4254875
+Total time: 100.10830163955688
+Batch 2100, train_perplexity=5.179021
+Total time: 104.09851503372192
+Batch 2200, train_perplexity=5.1941175
+Total time: 108.1082866191864
+Batch 2300, train_perplexity=4.9710875
+Total time: 112.14684820175171
+Loading data from: /home/ubuntu/Downloads/bilm-tf-master (2)/tests/fixtures/train/little_vocab/sentences.txt
+Loaded 4382 sentences.
+Finished loading
+Loading data from: /home/ubuntu/Downloads/bilm-tf-master (2)/tests/fixtures/train/little_vocab/sentences.txt
+Loaded 4382 sentences.
+Finished loading
+Batch 2400, train_perplexity=5.2006884
+Total time: 118.20558214187622
+Batch 2500, train_perplexity=5.8756585
+Total time: 122.30556225776672
+Batch 2600, train_perplexity=4.970363
+Total time: 128.09549689292908
+Batch 2700, train_perplexity=6.96478
+Total time: 132.0978045463562
+Batch 2800, train_perplexity=4.920817
+Total time: 136.2342493534088
+Batch 2900, train_perplexity=5.40093
+Total time: 140.280175447464
+Batch 3000, train_perplexity=4.7888145
+Total time: 144.45813369750977
+Batch 3100, train_perplexity=5.3359838
+Total time: 148.4923596382141
+Batch 3200, train_perplexity=3.6964536
+Total time: 152.50177001953125
+Batch 3300, train_perplexity=6.1441236
+Total time: 156.74164366722107
+Batch 3400, train_perplexity=5.659333
+Total time: 160.9821310043335
+Batch 3500, train_perplexity=6.1386375
+Total time: 165.20153641700745
+Batch 3600, train_perplexity=5.151479
+Total time: 169.42472386360168
+2021-01-05 11:27:58.059075 done training,saving vocab_embedding
+<tf.Variable 'lm/embedding:0' shape=(3877, 16) dtype=float32_ref>
+2021-01-05 11:27:58.547950 done sacint vocab_embedding to vocab_embedding.hdf5

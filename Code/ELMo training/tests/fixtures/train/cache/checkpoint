@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/ubuntu/Downloads/elmo_train_bilm-tf-master/tests/fixtures/train/cache/model.ckpt-730"
+all_model_checkpoint_paths: "/home/ubuntu/Downloads/elmo_train_bilm-tf-master/tests/fixtures/train/cache/model.ckpt-730"

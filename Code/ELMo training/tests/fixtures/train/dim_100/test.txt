@@ -1,0 +1,568 @@
+Title : TiC particulate - reinforced Al – 20Si – 5Fe composite fabricated by melt in situ reaction spray forming 
+Then , each powder mixture was pressed mechanically into a cylindrical preform of 20 mm diameter and 25 mm height . 
+The morphologies of TiC particulates in the reacted preforms with 5 . 0 wt . % Al and 35 wt . % Al , are shown in Fig . 1 . The TiC particulates in these preforms are generally spherical , but the size of most particulates in the preform with 5 . 0 wt . % Al is larger . 
+The effect of the addition of aluminum as a diluent on the theoretical adiabatic temperature ( Tad ) and on the fraction of molten TiC is demonstrated in Fig . 2 . 
+This shows that the experimental results are in good agreement with the theoretical calculations mentioned previously . 
+Upon droplet deposition , an abrupt fall in the solidification rate occurs on the deposit layer . 
+Both theoretical and experimental results have shown that diffusion , and solution - precipitation mechanisms occur during the formation process of the TiC particulates produced by this method . 
+Title : Effect of Fe and Mn additions on microstructure and mechanical properties of spray - deposited Al – 20Si – 3Cu – 1 Mg alloy . 
+The spray deposition experiments were conducted in an environmental chamber . 
+The X - ray diffraction experiments were performed on a Japan Rigaku diffractormeter using Cu - K α radiation . 
+By comparing it with Fig . 1 ( b ) , it can be easily seen that the intermetallic phases with a platelet shape were suppressed , and a high volume fraction of particle - like compound was formed in the microstructure . 
+Indexing of the selected area diffraction patterns indicates that the needle - like phases are β - Al 5 FeSi compounds with monoclinic parameters of a = b = 0 . 612 nm and c = 4 . 15 nm , as can be seen in Fig . 4 ( b ) . 
+From Table 2 , with additions of 5 % Fe to Al – 20Si – 3Cu – 1 Mg alloy , both the yield and ultimate tensile strengths was increased 55 and 64 MPa at room temperature , respectively . 
+The tensile test results indicate that spray - deposited Al – 20Si – 5Fe – 3Cu – 1 Mg alloy has better strength than the Al – 20Si – 3Cu – 1 Mg alloy at both the room and elevated temperature ( 573 K ) due to the presence of δ - Al 4 FeSi 2 and β - Al 5 FeSi intermetallics . 
+Title : Microstructure and thermal expansion behavior of spray - deposited Al – 50Si 
+The distance between the atomizing nozzle and the substrate was kept constant at 500 mm during the deposited process . 
+The phases were characterized using a Rigaku D / max - RB X - ray diffractometer ( XRD ) with monochromatic Co K a radiation . 
+As illustrated in Fig . 1 ( a ) , the primary Si displays coarse platelet morphology with an average size of 221 . 4 ± 2 . 1 l m in the cast alloy . 
+Accordingly , no eutectic Al – Si is found in the spray - deposited Al – 50Si alloy . 
+Fig . 4 shows the typical microstructures of the spray - deposited Al – 50Si alloy after HIP at different temperatures . 
+The density of the deposited alloy is lower than the cast alloy , and then it increases with increasing the HIP temperature . 
+Then , the expansion would result from the Al matrix , and primary Si particles as well as from the plastic deformation of the matrix , which may balance part of the expansion due to the Al and Si phases . 
+This is because the Al atoms in Si do not completely precipitate due to the low HIP temperature . 
+They both attributed the increase of CTE in the second heating step to the emergence of thermal stresses . 
+Fig . 8 shows the comparison between calculated and experimental CTE of the different Al – 50Si alloys . 
+The microstructure and the thermal expansion behavior of spray - deposited , cast and HIPed Al – 50Si alloys have been investigated in detail . 
+Title : The effect of Mn on the microstructure of spray - deposited Al - 20Si - 5Fe - 3Cu - 1Mg alloy 
+When added with a certain proportion to Al - Si alloys , Fe forms a volume fraction of thermally stable intermetallic compounds , and results in a considerable improvement in the hightemperature performance of these materials . 
+The investigation was conducted on three alloys with compositions as given in Table1 . 
+The polished and etched specimens were examined under a CAMBRIDGE S360 scanning electron microscopy ( SEM ) ® tted with an energy - dispersive X - ray ( EDX ) analysis system . 
+The XRD analysis revealed the coexistence of the metastable δ phase and equilibrium β phase in the spray - deposited A0 alloy . 
+Fig . 6 represents the XRD traces with analyzed results , obtained from spray - deposited A1 and A2 alloys , respectively . 
+At about 576 ° C , the ternary eutecticum consisting of the a - Al , Si phase and β phase is formed . 
+Upon droplet deposition , an abrupt fall in solidification rate occurs on the deposit layer . 
+With the addition of 1 wt . % Mn to the spray - deposited A0 alloy , residual Fe in the spray - deposited A1 alloy can be formed d and b compounds after the Al15 ( Fe , Mn ) 3Si2 phase is crystallized . 
+Thus , the mechanical properties ( particularly the high - temperature performance ) of spray - deposited Al - 20Si - 5Fe - 3Mn - 3Cu - 1Mg alloy are improved as a result of the needlelike Al - Si - Fe compounds are substituted by the particle - like Al - Si - Fe - Mn compound . 
+Title : Influence of temperature cycles on strength and microstructure of spray - deposited Si – Al CE9F alloy 
+A first reference batch of 29 specimens was used for characterizing the as - received material . 
+Moreover , from this analysis , the microstructure seems isotropic at this level . 
+This kind of twin boundaries has a low surface energy ( 0 . 06 J m − 2 ) ( Phillpot and Wolf , 1990 ; Bristowe , 1998 ; Kohyama et al . , 1986 ) . 
+However , the histogram of misorientation between two adjacent grains indicates that the number of subgrain boundaries in Si ( misorientation lower than 5 ° ) is about twice in Fig . 4d ( after 500 cycles ) than in Fig . 4b ( as - received ) . 
+Moreover the Weibull modulus significantly increases , indicating that the strength distribution is narrower . 
+These heat treatments correspond to the time spent at the maximal temperature during 80 , 200 and 500 cycles respectively . 
+Heat treatment at 130 ° C implies a decrease of 29 % after 20 h , but the lattice strain does not change anymore afterwards ( Fig . 7d ) . 
+The first one is spread around 150 – 200 ° C and is of low magnitude and the second one is more sharp and manifests as a peak above 400 ° C . 
+This value lies in the range reported in ( Rebhi et al . , 2011 ) , between 0 . 01 and 0 . 06 J g − 1 . 
+Thanks to cyclic thermomechanical stresses induced by the mismatch of coefficients of thermal expansion , temperature cycles are able to activate dynamic recovery mechanisms that continue the static recovery process . 
+In the investigated temperature range , dislocation motion in Si is much more difficult ( Priester , 2006 ) than in Al and is not relevant to explain the changes revealed by Williamson – Hall analyses , as confirmed by the almost constant dislocation density provided by Eq . ( 3 ) ( Fig . 7e and d ) . 
+Such a two - step trend matches the microstructure changes in the Al and Si phases , as described in Sections 4 . 1 and 4 . 2 . 
+The plot of average strength as a function of average crystallite size ( Fig . 9 ) shows a reasonable agreement of the experimental data with the Hall - Petch law , in view of the dispersion of the results . 
+Even if the mechanisms at work are still hypothetic and must be further investigated , these results could be exploited to propose a new step in the processing route of chip boxes , in view of a lightening of the components thanks to higher mechanical properties . 
+Title : Fabrication of spray - formed hypereutectic Al – 25Si alloy and its deformation behavior 
+The composition of the present alloy was Al – 25Si . A 15 kg alloy - preform was prepared via the OSPREY spray casting process with the melt temperature of 850 ℃ . 
+It is well known that load relaxation test can provide a much wider range of strain rates , applying a little amount of plastic strain 1 . 5 % , in this study , to the specimen without an appreciable change in microstructures [ 9 ] . 
+Some pores were observed only in the bottom of the billet . 
+Some compression test results are given in Fig . 5 in terms of the true stress and true strain . 
+The critical pressure is evaluated as 1072 MPa in the case of this study and marked by the horizontal lines in Fig . 7 . 
+After an extrusion , the Si particles were observed to refine into much a smaller size of about 2 μ m . 
+Title : Effect of Cr and Mn on the microstructure of spray - formed Al – 25Si – 5Fe – 3Cu alloy 
+The raw materials included pure Al ( 99 . 7 % purity ) , Al – 40Si ( Si content : 40 % , other impurities ≤ 0 . 5 wt % , Al balanced ) and Al – 50Cu ( Cu content : 50 % other impurities ≤ 0 . 5 wt % , Al balanced ) master alloys , and commercial Fe - ( 75 wt % Fe , the rest is ﬂ ux ) , Mn - ( 75 wt % Mn , the rest is ﬂ ux ) , Cr ( 60 wt % Cr , the rest is ﬂ ux ) additives . 
+Specimens for all FE - SEM ( ZEISS SUPRA55 equipped with energy dispersive spectroscopy ( EDS ) ) observations were prepared by the standard metallographic procedures using SiC abrasive paper , 2 . 5 μ m diamond polishing paste and Keller ’ s reagent . 
+Taking into account the results of the XRD and EDS analyses , it can be deduced that the white short - rod phase might be ␤ - Al5 FeSi / δ - Al4FeSi2 . 
+The δ - Al4 FeSi2 phase is not detected by XRD analysis , as shown in Fig . 2 ( b ) . 
+One can see that the rod - like ( arrow B ) , blocky ( arrow C ) and granular ( arrow D , arrow E ) intermetallic compounds are present accompanied by primary Si ( arrow A ) and Al matrix . 
+Further increasing Mn / Cr content in spray formed alloys with co - addition of Mn and Cr will hardly change the microstructural constituents , but obviously change the microstructural features as revealed in Fig . 5 ( SF - MC12 alloy ) and Fig . 6 ( SF - MC21 alloy ) . 
+That is to say , some of the β phase particles must have a granular shape . 
+The size of the small polygonal intermetallic particle is about 3 – 5 μ m , which is consistent with those of intermetallics shown in the inserts of SEM images . 
+When the temperature reaches peak4 , the eutectic reaction L → Al + Si + Al5FeSi will take place . Finally , the remaining liquid solidify into quaternary eutectic of Al + Si + θ - Al2Cu + Al5FeSi corresponding to peak 5 region . 
+Both Mn and Cr addition can greatly decrease the onset precipitation temperature of primary Si phase and increase the onset temperature of peak 2 . 
+As a result , lower content of β phase is left in the SF - C2 alloy than that in the SF - M2 alloy . 
+Compared the SF - MC21 alloy with the SF - MC12 alloy , one can ﬁ nd that the modi ﬁ cation effect induced by 2 wt % Mn + 1 wt % Cr co - addition is superior to that induced by 1 wt % Mn + 2 wt % Cr coaddition , which implies that the Mn / Cr ratio play an important role in the microstructural modi ﬁ cation . 
+Both the addition of Mn or Cr can modify the characteristics of the intermetallics in the spray - formed alloys through changing the phase precipitation region . 
+Wear behavior of secondary processed spray formed Al - 28Si - 5Cu - 4Mg alloy 
+The wear behavior of both the alloys , under dry sliding conditions , showed an increase in the wear rate with an increase in the load . 
+Specimens of size 100 x 30 x 20 mm were cut from the preforms . 
+The counterpart disc was made of quenched and tempered EN - 32 steel having a surface hardness of 65HRC . 
+Fig . 1 ( b ) shows the optical microstructure of as - spray formed alloy , which is composed of uniformly distributed primary Si particles , intermetallic secondary phases containing Cu and Mg in Al - matrix . 
+The microstructure of alloy exhibited coexisting faceted primary Si particles and fine plates of complex intermetallic phases . 
+The dendritic as well as the Chinese script structures observed in the as - cast alloy are modified and it is difficult to discern the difference between primary Al2Cu and Q phases . 
+The higher hardness of spray formed + hot pressed alloy can be atributed to the microstructrural refinement of θ - Al2Cu and Q phases owing to the rapid solidification effect and partial recrystallization , fragmentation of θ - Al2Cu and Q phases further and reduced porosity due to hot pressing . 
+The microstructural features like morphology , size and distribution of hard intermetallics ( Q - phase ) and θ - Al2Cu precipitates have a large influence on the dry sliding wear behavior of alloy [ Haq01 ] . 
+Under such conditions , metallic wear takes place . 
+This fine dispersion provides strength to the matrix and the bonding between these phases and the matrix is strong enough to retain them to the matrix during wear leading to a low wear rate [ Wan04 ] . 
+The following conclusions may be drawn from the present investigation on the spray forming and hot pressing of Al - 28Si - 5Cu - 4Mg alloy . The microstructure of spray formed and hot pressed alloy consists of fine and uniform distribution of both primary and eutectic Si with fine needles of Q - Al12Si7Mg4Fe intermetallics and Chinese script like θ - Al2Cu precipitates in the Al - matrix . Hot pressing has reduced the porosity from 10 to 1 % in spray formed alloy . The hardness of spray formed and hot pressed alloy is 142 VHN and that of as - cast alloy is 82 VHN . The wear resistance of spray formed and hot pressed alloy is higher than that of the as - cast alloy . The worn surface is less damaged and the debris particles are smaller in spray formed and hot pressed alloy compared to that in the as - cast alloy . 
+Title : Load Relaxation and Creep Behavior of a Spray Cast Hypereutectic Al - 25Si - 2Cu - 1Mg Alloy 
+Dislocations are now well known to glide on slip planes in response to applied stress until they are blocked by strong barriers such as grain boundaries in order to produce internal strain energy . 
+The results are schematically presented in Fig . 1 . 
+The hypereutectic Al - 25 . 0Si - 2 . 0Cu - 1 . 0Mg ( wt . % ) alloy used in this study was produced by an ‘ OSPREY ’ spray casting process , which generally produces various sizes , morphologies and distributions of the primary Si particles in the Al matrix [ 16 ] . 
+3 and 4 . 
+The flow stress - strain rate curves could be resolved in this way into the two independent flow curves of ( α − σ ) and ( β − σ ) representing plasticity due to dislocation glide and creep due to dislocation climb , respectively . 
+The minimum creep strain rates are plotted as a function of applied stresses in Fig . 6 exhibiting the general trend of faster creep rate at higher temperature . 
+An additional deformation behavior due to dislocation climb seems to activate under lower stresses above 300 in this spray cast a hypereutectic Al - 25Si - 2Cu - 1Mg alloy , in addition to the usual plastic deformation observed under a relatively higher stress region . 
+( 3 ) The activation energies of hypereutectic Al - 25Si - 2Cu1 Mg alloy were obtained as 93 KJ / mol and 145 KJ / mol for dislocation glides and climbs , respectively , from load relaxation tests . 
+Title : Study on the preparation of the SiCp / Al – 20Si – 3Cu functionally graded material using spray deposition 
+The nominal chemical compositions ( in wt . % ) of the matrix alloy are 20 % Si , 3 . 0 % Cu , 0 . 5 % Mg , 0 . 3 % Mn and balance Al . 
+The ceramic particles are then imported to the venturi ( 26 ) through the impeller ( 23 ) driven by the speed motor ( 24 ) in a high pressure gas channel ( 25 ) when the speed motor ( 24 ) goes into operation . 
+The as - deposited preform is sectioned into the discs with 30 mm in thickness along the deposition direction using the electrical discharge cutting machine for microstructural characterization and microhardness testing . 
+The porosity volume is obtained by 1 − ρ m / ρ t , while ρ m and ρ t are the measured density the theoretical density respectively . 
+As shown in Fig . 2a , the cylindrical preform with 240 mm in diameter and 280 mm in thickness is spray - deposited . 
+The automatic control unit is designed to obtain the solid - gas dual medium ﬂ ow of the graded SiC particles . 
+The distribution of SiC particles in the as - deposited preform along the longitudinal direction is shown in Fig . 4 . 
+To further understand the distribution characteristics of SiC particles in the FGM , samples are sectioned from the preform at a distance of 60 and 210 mm from the bottom respectively and their fractured surfaces are also examined by SEM . 
+As shown in Fig . 7 , the porosity is visible . 
+Samples with the SiCp fraction of 15 % , 10 % and 5 % respectively are taken from the preform and the XRD analysis is conducted to investigate the phase constitutions of the layers with the different SiC addition . 
+As shown in Fig . 9 , the calculated porosity is consistent with the results of micrographs . 
+The detailed investigation on the densi ﬁ cation process and mechanical properties of the Al – 20Si – 3Cu / SiCp FGM is underway . 
+Title : Microstructure and Mechanical Properties of Spray - Deposited Al - 17Si - 4 . 5Cu - 0 . 6Mg Wrought Alloy 
+During plastic deformation , extensive fracture of Si occurred . 
+First , the alloy was superheated to a temperature of 1073 K in a graphite crucible under N2 gas at 1 atm pressure . 
+Two extrusion ratios were selected , namely , 4 : 1 and 16 : 1 , corresponding to final sample diameters of 1 . 27 and 0 . 64 cm , respectively . 
+The ion current and acceleration voltage were 20 μ A and 5 kV , respectively . 
+Tensile tests were conducted on samples with two basic types of geometries : smooth cylindrical bars and flat plates . 
+Figure 2 compares the microstructure of the as - spraydeposited ASI7 with that of the as - cast A390 alloy . 
+A notable feature from Figures 2 ( c ) and ( d ) is the absence of regular eutectic AI - Si phase and primary Si blocks . 
+One example is shown in Figure 5 , which reveals that this phase primarily exhibited a spherical morphology . 
+The microstructure of the extruded material , however , recrystallized during isothermal heat treatment at 773 K . 
+The strength of materials in the vicinity of the cooling substrate was relatively low compared with those in the central portion of the spray - deposited preform . 
+The materials extruded with an extrusion ratio of 4 : 1 exhibited a relative low strength at intermediate extrusion temperatures . 
+The roomtemperature mechanical properties of the as - spraydeposited and heat - treated AS17 are also summarized in Table IV in comparison with those of the hypereutectic alloys of similar compositions but processed utilizing alternative processing techniques . 
+This is consistent with the results shown in Table IV , which show that the total elongation to fracture was generally less than 7 . 2 pct . 
+Moreover , the size of the dimples followed a linear relationship with that of the Si particulates ( Figure 11 ) . 
+There are two important microstructural observations that may be deduced from Figure 13 . 
+The regular eutectic AI - Si phase and primary Si blocks commonly associated with IM hypereutectic AI - Si alloys were suppressed . 
+As discussed by Fabietti and Sekhar , when a concentration gradient is present in front of the S / L interface , the dendritic or planar growth front may be replaced by an equiaxed structure . 
+The presence of an equiaxed grain morphology in the as - spray - deposited material agrees with the results of previous studies on spray - deposited unreinforced and reinforced materials of various compositions . There are two basic mechanisms proposed in the literature that can be used to explain this equiaxed grain morphology : equiaxed grain formation by dendrite arm fragmentation and equiaxed grain development by growth and coalescence of dendrite flagments during solid - state cooling . In the first mechanism 
+Inspection of the results summarized in Table IV reveals that the strength of as - spray - deposited AS17 is comparable to that of the die - cast A390 and is much higher than that of the sand and permanent mold - cast A390 , in spite of the fact that there is 1 . 5 to 2 . 4 vol pct porosity present in the former material . 
+In fact , the AS17 alloy composition is known to have solution strengthening upon cooling from processing temperatures . Since the high cooling rate was experienced by the present material following extrusion , i . e . , 230 K / min , a solutionstrengthening effect is expected . 
+Surprisingly , the strength of spray - deposited and extruded AS I7 did not show a monotonic decrease with thermal exposure . 
+They attributed this effect to the absence of redundant shears in the presence of nondeformable particulates ( greater than 0 . 1 μ m ) . 
+Their results indicate that a dislocation density as high as l0 ^ 13 to 10 ^ 14 m - ^ 2 is present in the vicinity of the particulate / matrix interface . 
+As an example , Figure 17 shows the TEM micrographs taken from the ASI7 alloy following 100 hours of isothermal heat treatment . 
+In contrast , the corresponding yield strength and ultimate strength of A390 are 374 and 387 MPa , respectively . 
+Title : Microstructure and Mechanical Properties of Spray - Deposited Al - 17Si - 4 . 5Cu - 0 . 6Mg Wrought Alloy 
+During plastic deformation , extensive fracture of Si occurred . 
+First , the alloy was superheated to a temperature of 1073 K in a graphite crucible under N2 gas at 1 atm pressure . 
+Two extrusion ratios were selected , namely , 4 : 1 and 16 : 1 , corresponding to final sample diameters of 1 . 27 and 0 . 64 cm , respectively . 
+The ion current and acceleration voltage were 20 μ A and 5 kV , respectively . 
+Tensile tests were conducted on samples with two basic types of geometries : smooth cylindrical bars and flat plates . 
+Figure 2 compares the microstructure of the as - spraydeposited ASI7 with that of the as - cast A390 alloy . 
+A notable feature from Figures 2 ( c ) and ( d ) is the absence of regular eutectic AI - Si phase and primary Si blocks . 
+One example is shown in Figure 5 , which reveals that this phase primarily exhibited a spherical morphology . 
+The microstructure of the extruded material , however , recrystallized during isothermal heat treatment at 773 K . 
+The strength of materials in the vicinity of the cooling substrate was relatively low compared with those in the central portion of the spray - deposited preform . 
+The materials extruded with an extrusion ratio of 4 : 1 exhibited a relative low strength at intermediate extrusion temperatures . 
+The roomtemperature mechanical properties of the as - spraydeposited and heat - treated AS17 are also summarized in Table IV in comparison with those of the hypereutectic alloys of similar compositions but processed utilizing alternative processing techniques . 
+This is consistent with the results shown in Table IV , which show that the total elongation to fracture was generally less than 7 . 2 pct . 
+Moreover , the size of the dimples followed a linear relationship with that of the Si particulates ( Figure 11 ) . 
+There are two important microstructural observations that may be deduced from Figure 13 . 
+The regular eutectic AI - Si phase and primary Si blocks commonly associated with IM hypereutectic AI - Si alloys were suppressed . 
+As discussed by Fabietti and Sekhar , when a concentration gradient is present in front of the S / L interface , the dendritic or planar growth front may be replaced by an equiaxed structure . 
+The presence of an equiaxed grain morphology in the as - spray - deposited material agrees with the results of previous studies on spray - deposited unreinforced and reinforced materials of various compositions . There are two basic mechanisms proposed in the literature that can be used to explain this equiaxed grain morphology : equiaxed grain formation by dendrite arm fragmentation and equiaxed grain development by growth and coalescence of dendrite flagments during solid - state cooling . In the first mechanism 
+Inspection of the results summarized in Table IV reveals that the strength of as - spray - deposited AS17 is comparable to that of the die - cast A390 and is much higher than that of the sand and permanent mold - cast A390 , in spite of the fact that there is 1 . 5 to 2 . 4 vol pct porosity present in the former material . 
+In fact , the AS17 alloy composition is known to have solution strengthening upon cooling from processing temperatures . Since the high cooling rate was experienced by the present material following extrusion , i . e . , 230 K / min , a solutionstrengthening effect is expected . 
+Surprisingly , the strength of spray - deposited and extruded AS I7 did not show a monotonic decrease with thermal exposure . 
+They attributed this effect to the absence of redundant shears in the presence of nondeformable particulates ( greater than 0 . 1 μ m ) . 
+Their results indicate that a dislocation density as high as l0 ^ 13 to 10 ^ 14 m - ^ 2 is present in the vicinity of the particulate / matrix interface . 
+As an example , Figure 17 shows the TEM micrographs taken from the ASI7 alloy following 100 hours of isothermal heat treatment . 
+In contrast , the corresponding yield strength and ultimate strength of A390 are 374 and 387 MPa , respectively . 
+Title : Effect of rapid solidification on the microstructure and mechanical properties of hot - pressed Al – 20Si – 5Fe alloys 
+The hot consolidation resulted in coarsening of Si particles in the atomized particles , and precipitation of Si and Fe - containing intermetallics from the supersaturated Al matrix in the ribbons . 
+Ribbons were produced by the chill - block melt spinning process by means of impinging a jet of molten alloy onto the cylindrical surface of a copper wheel with a diameter of 23 cm rotating at 40 m / s . 
+The morphology of the particles was evaluated by scanning electron microscopy ( Tescan VEGA Ι Ι XMU , Czech Republic ) . Phase characterization was performed by X - ray diffraction ( XRD , Philips Xpert ) using Cu K α radiation ( λ = 1 . 5406 Å ) at 2 θ - step of 0 . 02 ° and scanning duration of 1 s from 15 ° to 80 ° . 
+The process was performed in a steel die coated with boron nitride under a high purity argon atmosphere . 
+The Vickers hardness of the compacts was determined using a hardness tester ( Instron Wolpert , Germany ) at the indentation load of 30 kg . 
+In the free - side , the microstructure is dendritic , which has an average arm spacing of about 150 ± 20 nm ( Fig . 3d ) . 
+Only diffraction peaks of the aluminum and low - intensity peaks of Si are visible . 
+It is noticeable that the morphology of the acicular intermetallic is changed to spherical shape in the presence of Cr while the composition remained unchanged ( tetragonal δ - Al 4 FeSi 2 ) . 
+The gas - atomized powders and pulverized melt - spun ribbons were hot pressed into bulk cylindrical shapes and the microstructure and mechanical strength of the compacts were examined . 
+The X - ray diffraction pattern of the compacts also shows the presence of β - Al 5 FeSi phase . 
+X - ray diffraction analysis indicated the composition of the intermetallic phase as Al95Fe4Cr ( Fig . 10d ) . 
+The effect of cooling rate and transition alloying elements on the microstructure and mechanical strength of as - solidified and hot - pressed Al – 20Si – 5Fe alloy was studied . 
+After hot consolidation of the gas - atomized powders , the microstructural changes included transformation of metastable δ - phase to stable β - phase and coarsening of silicon particles . 
+Title : Load Relaxation and Creep Behavior of a Spray Cast Hypereutectic Al - 25Si - 2Cu - 1Mg Alloy 
+Dislocations are now well known to glide on slip planes in response to applied stress until they are blocked by strong barriers such as grain boundaries in order to produce internal strain energy . 
+The results are schematically presented in Fig . 1 . 
+The hypereutectic Al - 25 . 0Si - 2 . 0Cu - 1 . 0Mg ( wt . % ) alloy used in this study was produced by an ‘ OSPREY ’ spray casting process , which generally produces various sizes , morphologies and distributions of the primary Si particles in the Al matrix [ 16 ] . 
+3 and 4 . 
+The flow stress - strain rate curves could be resolved in this way into the two independent flow curves of ( α − σ ) and ( β − σ ) representing plasticity due to dislocation glide and creep due to dislocation climb , respectively . 
+The minimum creep strain rates are plotted as a function of applied stresses in Fig . 6 exhibiting the general trend of faster creep rate at higher temperature . 
+An additional deformation behavior due to dislocation climb seems to activate under lower stresses above 300 in this spray cast a hypereutectic Al - 25Si - 2Cu - 1Mg alloy , in addition to the usual plastic deformation observed under a relatively higher stress region . 
+( 3 ) The activation energies of hypereutectic Al - 25Si - 2Cu1 Mg alloy were obtained as 93 KJ / mol and 145 KJ / mol for dislocation glides and climbs , respectively , from load relaxation tests . 
+Title : Spray Casting of Al - 25Si Alloy and Hot Deformation Behavior 
+A 15 - kg - alloy - preform was prepared through the spray casting process with the melt temperature of 850oC . 
+Some pores were observed only in the bottom of the billet . 
+The m values of spray - cast Al - 25Si alloy are found very small at lower temperatures less than 0 . 1 below 300 ° C but appear to increase remarkably reaching upto about 0 . 13 at 500 ° C . 
+The power dissipation maps were constructed from the compression test results as given in Fig . 4 , which is comparable to those of high strength wrought Al alloys such as 7075 and 8090 Al in the value of power dissipation efficiency [ 12 ] . 
+Title : Fabrication of spray - formed hypereutectic Al – 25Si alloy and its deformation behavior 
+The composition of the present alloy was Al – 25Si . A 15 kg alloy - preform was prepared via the OSPREY spray casting process with the melt temperature of 850 ℃ . 
+It is well known that load relaxation test can provide a much wider range of strain rates , applying a little amount of plastic strain 1 . 5 % , in this study , to the specimen without an appreciable change in microstructures [ 9 ] . 
+Some pores were observed only in the bottom of the billet . 
+Some compression test results are given in Fig . 5 in terms of the true stress and true strain . 
+The critical pressure is evaluated as 1072 MPa in the case of this study and marked by the horizontal lines in Fig . 7 . 
+After an extrusion , the Si particles were observed to refine into much a smaller size of about 2 μ m . 
+Title : Properties and microstructure of Al – 11Si / SiCp composite coatings fabricated by thermal spray 
+This powder was mixed with SiC in form of particles ( SiCp ) that were fabricated by Navarro S . A . ( Spain ) with a mean size of 52 μ m , which acted as reinforcement in the coatings deposited . 
+This procedure was selected after testing of various alternative concentrations , catalysts and precursors . 
+To coat big ﬂ at surfaces , parallel layers have been applied with a lateral displacement of the position of the spraying gun relative to the sample of 1 cm , which implies an overlap of about 20 % of the ﬁ rst coating laid . 
+4 . 1 . 
+It can be seen that the porosity in the interface is lower for the sol – gel coated SiCp than without sol – gel coated SiCp . 
+The incorporation of sol – gel silica coatings on the particles increased the reinforcement rates by 10 % , in average . 
+To determine its relevance we have analyzed the morphological characteristics of coatings fabricated with two layers using the same spraying parameters ( in both cases the distance used was 18 cm ) but the amount of material sprayed per time unit , i . e . the feeding rate . 
+Fig . 6 resumes the porosity and reinforcement rates ( Fig . 6a and b , respectively ) measured for the coatings sprayed at two different feeding rates ( 0 . 8 and 1 . 1 g / s ) . 
+However , the use of mixtures with higher SiCp percentages always led to higher hardness values for the same spraying conditions . 
+This can be explained because SiCp cannot directly adhere to the substrate , so the ﬁ rst layer acted as bond coat easing the formation and adhesion of a highly reinforced coating . There is also a preheating effect of the ﬁ rst coating that favours the adhesion of the SiCp . 
+We used the AA6082 with a T6 treatment , i . e . solubilised at 530 ° C and arti ﬁ cially aged for 8 h at 176 ° C , with a hardness of 109 HV . 
+The aluminium powder absorbs more heat than the SiC particles and transfers it more ef ﬁ ciently to the substrate , causing the highest hardness reduction in the coatings deposited without SiCp ; a similar phenomenon took place when higher powder feeding rates were used . 
+In all conditions studied , using sol – gel silica coatings on SiCp reduced the porosity of the coatings to values below 1 % because it enhanced the wettability of the reinforcement by molten aluminium , and also increased the degree of reinforcement of the coatings obtained . 
+Title : Effect of Cu and Mg on the wear properties of spray formed Al - 22Si alloy 
+The wear study of both as - cast and spray formed and hot pressed alloys under an applied load of 10 to 50 N and sliding velocity of 0 . 4 to1 . 5 ms - 1 indicated two distinct regimes of mild and severe wear . In both the regimes , the spray - formed and hot pressed alloys consistently indicated a low wear rate compared to that of as - cast alloys . The high wear resistance of spray formed and hot pressed Al – 22Si and Al – 22Si – 4Cu – 1 . 7Mg alloys were explained in the light of their microstructural modifications induced during spray forming and subsequent hot pressing . 
+The density of spray formed alloys was measured by using Archimedes principle as per ASTM : B962 – 08 . The percentage of porosity ( % P ) in the spray formed alloys was measured by using the actual density ( ρ ac ) and the theoretical density ( ρ th ) of the alloys using the relation , % P = [ 1 - ( ρ ac / ρ th ) ] x 100 . The samples were prepared by polishing using standard metallographic techniques of grinding on emery paper with 1 / 0 , 2 / 0 , 3 / 0 and 4 / 0 specifications and cloth polishing . 
+All the experiments were carried out under dry sliding conditions and data was recorded at room temperature . 
+It consists of coarse primary Si particles in the form of plate like / fishbone structure while , eutectic phase comprises of Si needles randomly distributed in the Al - matrix . The phase composition of as - cast Al - 22Si alloy is shown in Table 3 . 
+The microstructure consists of an equiaxed , nearly spheroidized grain morphology of α - Al matrix . 
+The size of Si particles varied from 3 to 20 µ m compared to large particle size of 150 µ m in as - cast alloy . The various phases present are grey colored Si particulates as a major element , grey colored intermetallic Q - Al48Si29Mg18Fe4 phase and bright white phase of θ - Al2Cu . 
+The solidification of as - cast Al - 22Si and Al - 22Si - 4Cu - 1 . 7Mg alloys , due to slow cooling rate and broad temperature interval between the liquidus and solidus of higher Si content composite in the pseudo binary section will cause castings with a coarse plate like Si , needle like Q and Chinese script like Al2Cu phases . 
+The porosity has been observed in the deposits and was uniformly distributed . 
+The results of hardness measurement of spray formed + hot pressed ( SF + HP ) Al - 22Si and Al - 22Si - 4Cu - 1 . 7Mg alloys are as shown in the Table 7 . 
+In the entire range of applied load , the SF + HP Al - 22Si - 4Cu - 1 . 7Mg alloy exhibited best wear resistance . 
+The spray formed and hot pressed alloys indicate lowest coefficient of friction , whereas the highest friction coefficients occurred in the as - cast alloys . 
+At low loads , more time is available for the formation and growth of micro - welds , which increases the force needed to shear - off the micro - welds to keep the relative motion and this leads to an increase in wear resistance . 
+The dispersoids of intermetallics phase in Al - 22Si - 4Cu - 1 . 7Mg alloy possess higher hardness compared to that of eutectic Si phase in Al - 22Si alloy . 
+This is indicated by a significantly high wear rate of the material with further increase in the sliding velocity . 
+Additionally , the delamination wear component can be concluded from the cracks and shallow craters , which are seen at the worn surface . 
+It seems that the coarse phases are readily fractured and broken off during wear weakening the matrix leading to a high wear rate . 
+The spray formed and hot pressed alloys show maximum hardness compared to as - cast alloys . 
+Title : Effect of Fe and Mn additions on microstructure and mechanical properties of spray - deposited Al – 20Si – 3Cu – 1 Mg alloy . 
+The spray deposition experiments were conducted in an environmental chamber . 
+The X - ray diffraction experiments were performed on a Japan Rigaku diffractormeter using Cu - K α radiation . 
+By comparing it with Fig . 1 ( b ) , it can be easily seen that the intermetallic phases with a platelet shape were suppressed , and a high volume fraction of particle - like compound was formed in the microstructure . 
+Indexing of the selected area diffraction patterns indicates that the needle - like phases are β - Al 5 FeSi compounds with monoclinic parameters of a = b = 0 . 612 nm and c = 4 . 15 nm , as can be seen in Fig . 4 ( b ) . 
+From Table 2 , with additions of 5 % Fe to Al – 20Si – 3Cu – 1 Mg alloy , both the yield and ultimate tensile strengths was increased 55 and 64 MPa at room temperature , respectively . 
+The tensile test results indicate that spray - deposited Al – 20Si – 5Fe – 3Cu – 1 Mg alloy has better strength than the Al – 20Si – 3Cu – 1 Mg alloy at both the room and elevated temperature ( 573 K ) due to the presence of δ - Al 4 FeSi 2 and β - Al 5 FeSi intermetallics . 
+Title : Microstructural characterisation of spray formed Si – 30Al for thermal management applications 
+Hypereutectic Al - high Si alloys possess a combination of physical properties that make them attractive for thermal management applications , including the required relatively high thermal conductivity , low density , and a linear variation in CTE with temperature [ 4 , 5 ] . 
+The trajectory of the resulting droplets comprising the spray was intercepted by a ceramic collector plate manipulated within the spray cone to build - up progressively a coherent billet [ 6 , 7 ] . 
+Figure 1 shows optical micrographs of spray formed and HIPed Si – 30Al ( SFSi30Al ) and an as - cast Si – 30Al alloy for comparison . 
+Figure 3 ( b ) and ( c ) show the corresponding { 0 0 1 } PF and inverse pole ﬁ gures ( IPF ) respectively indicating that the h0 0 1i direction was aligned approximately with the spray formed billet axis to within 15 . Although this ﬁ nding suggests that the Al - rich grains grew with a preferred h0 0 1i direction through the preexisting Si , other regions of the billet showed similarly sized regions in which the Al - rich grain < 1 1 0 > and h1 1 1i directions were approximately normal to the billet axial direction . 
+At this temperature the billet comprises ~ 40 wt . % liquid at a composition of Al – 22 % Si [ 8 ] distributed throughout the solid primary Si network . 
+Figure 6 ( a ) shows the Si IPF obtained using EBSD from a 1750 μ m x 750 μ m area of the XRD sample corresponding to ~ 14 , 000 grains where the contours indicate the levels of crystallographic alignment . 
+EBSD investigation of a 1750 μ m x 750 μ m area of this same XRD sample con ﬁ rmed a ~ 250 μ m region oriented near to < 1 1 1 > . The occasional regions of ﬁ ne equiaxed Al grains shown in Figure 3 ( a ) are formed when either the liquid in these regions becomes isolated from the larger growing Al grains , or local compositional and undercooling conditions favour heterogeneous nucleation of new Al grains . 
+Title : Superplastic deformation behavior of spray - deposited hyper - eutectic Al – 25Si alloy 
+The chemical composition is given as Al – 25Si – 3 . 7Cu - 1Mg – 0 . 42Fe in weight percent ( hereafter , denoted as ‘ Al – 25Si alloy ’ ) . 
+The compositions of whiskers and flow lines developed on grain surfaces and the fractured surface of specimens were determined by energy - dispersive X - ray spectrometry ( EDS ) . 
+A maximum tensile elongation of ~ 250 % was obtained at 5 × 10 ^ - 4 s ^ - 1 and at 500 ℃ . 
+In this case , the plastic flow behavior is described by the following equation [ 5 ] : where b is the Burgers vector , D the relevant diffusivity , E the Young ’ s modulus , d the grain size , p the grain size exponent , n the true stress exponent and A is the dimensionless material constant . 
+The data for 430 ℃ , which is the temperature located on the border between Region I and Region II , could be most successively analyzed when assuming that dislocation climb creep and grain boundary sliding dominates the plastic flow at high , intermediate and low strain rates , respectively . 
+In Fig . 7 , the relation of ε / DL vs . ( σ - σ o ) / E was analyzed , where DL is the lattice self - diffusion coefficient for pure aluminum . The phenomenological relations developed for a number of superplastic metallic alloys [ 6 ] ( mark A ) and superplastic PM aluminum composites [ 7 ] ( mark B ) are indicated as dotted lines . 
+A good correlation can be noted . 
+Examination of fracture surfaces at a given temperature of 500 ℃ as a function of strain rate indicates that the most extensive whisker formation took place at the strain rate where the largest tensile elongation was obtained ( 5 × 10 ^ - 4 s ^ - 1 ) . 
+A number of nodes of different sizes are observed to be along the whiskers as shown in Fig . 11 . 
+This much of large elongation with relatively uniform elongation along the length of fibers is anticipated when Newtonian viscous flow of a liquid or semi - liquid material is responsible for the deformation . 
+The activation energy for plastic flow , which has been revealed after considering the presence of the threshold stress , was found to be close to that for self - diffusion in pure aluminum . 
+Title : Microstructure and phase formation in spray - deposited Al – 18 % Si – 5 % Fe – 1 . 5 % Cu alloy 
+These results have been discussed in light of the mechanisms involved in the spray deposition process . 
+The preforms and over - sprayed powder particles thus generated were sectioned and samples were prepared for microstructural examination using standard metallographic technique . 
+The X - ray diffractograms of the powder as well as the deposit are shownin Fig . 5 ( a ) and ( b ) , respectively . 
+The above microstructural features could be understood in light of the mechanisms involved during spray deposition . 
+In the initial stages of spray deposition , a high cooling rate is encountered at the substrate surface . 
+This has been attributed basically to the large aspect ratio of intermetallics phase , which adds to easy fragmentation under the effect of turbulent fluid flow condition . 
+It has been reported by Choi et al . 
+Title : TiC particulate - reinforced Al – 20Si – 5Fe composite fabricated by melt in situ reaction spray forming 
+Then , each powder mixture was pressed mechanically into a cylindrical preform of 20 mm diameter and 25 mm height . 
+The morphologies of TiC particulates in the reacted preforms with 5 . 0 wt . % Al and 35 wt . % Al , are shown in Fig . 1 . The TiC particulates in these preforms are generally spherical , but the size of most particulates in the preform with 5 . 0 wt . % Al is larger . 
+The effect of the addition of aluminum as a diluent on the theoretical adiabatic temperature ( Tad ) and on the fraction of molten TiC is demonstrated in Fig . 2 . 
+This shows that the experimental results are in good agreement with the theoretical calculations mentioned previously . 
+Upon droplet deposition , an abrupt fall in the solidification rate occurs on the deposit layer . 
+Both theoretical and experimental results have shown that diffusion , and solution - precipitation mechanisms occur during the formation process of the TiC particulates produced by this method . 
+Title : Microstructure , thermo - physical and mechanical properties of spray - deposited Si – 30Al alloy for electronic packaging application 
+For the densification , the perform , after being cut into cylindrical billets was hot pressed for 4 h at a temperature of 570 ° C with a pressure of 240 MPa . 
+It can be seen that the optical microscopy microstructure of as - cast alloy is composed of the large block - like primary Si phases and coarse flake eutectic , in Fig . 1 ( a ) . 
+The formation of the globular primary Si phase in the spray - deposited Si – 30Al alloy resulted mainly from the relativity high cooling rates during spraydeposition , which has the intrinsic ability to alter the morphological stability of the Si phase . 
+Al - 68 % SiC composite combines the benefits of compatible and tailorable CTE , high thermal conductivity and low density , it is a pity that the composite with high SiC content is not easily machinable . 
+This makes them ideal candidate materials for electronic packaging and thermal management . 
+Title : Superplastic deformation behavior of spray - deposited hyper - eutectic Al – 25Si alloy 
+The chemical composition is given as Al – 25Si – 3 . 7Cu - 1Mg – 0 . 42Fe in weight percent ( hereafter , denoted as ‘ Al – 25Si alloy ’ ) . 
+The compositions of whiskers and flow lines developed on grain surfaces and the fractured surface of specimens were determined by energy - dispersive X - ray spectrometry ( EDS ) . 
+A maximum tensile elongation of ~ 250 % was obtained at 5 × 10 ^ - 4 s ^ - 1 and at 500 ℃ . 
+In this case , the plastic flow behavior is described by the following equation [ 5 ] : where b is the Burgers vector , D the relevant diffusivity , E the Young ’ s modulus , d the grain size , p the grain size exponent , n the true stress exponent and A is the dimensionless material constant . 
+The data for 430 ℃ , which is the temperature located on the border between Region I and Region II , could be most successively analyzed when assuming that dislocation climb creep and grain boundary sliding dominates the plastic flow at high , intermediate and low strain rates , respectively . 
+In Fig . 7 , the relation of ε / DL vs . ( σ - σ o ) / E was analyzed , where DL is the lattice self - diffusion coefficient for pure aluminum . The phenomenological relations developed for a number of superplastic metallic alloys [ 6 ] ( mark A ) and superplastic PM aluminum composites [ 7 ] ( mark B ) are indicated as dotted lines . 
+A good correlation can be noted . 
+Examination of fracture surfaces at a given temperature of 500 ℃ as a function of strain rate indicates that the most extensive whisker formation took place at the strain rate where the largest tensile elongation was obtained ( 5 × 10 ^ - 4 s ^ - 1 ) . 
+A number of nodes of different sizes are observed to be along the whiskers as shown in Fig . 11 . 
+This much of large elongation with relatively uniform elongation along the length of fibers is anticipated when Newtonian viscous flow of a liquid or semi - liquid material is responsible for the deformation . 
+The activation energy for plastic flow , which has been revealed after considering the presence of the threshold stress , was found to be close to that for self - diffusion in pure aluminum . 
+Title : Microstructures and mechanical properties of spray - formed and squeeze - cast Al – 25Si – 0 . 89Cu – 1 . 0Ni – 0 . 84Mg alloys in solutionized and aged conditions 
+The peak - aged spray - formed alloy exhibits an ultimate strength of 366 . 0 MPa , a yield strength of 235 . 3 MPa and an elongation of about 3 . 4 % . 
+The sample sizes used in the heat treatment experiments were 15 mm × 15 mm × 15 mm . 
+Furthermore , in order to identify the phase formation during aging treatment , a DSC instrument with a heating rate of 10 K / min was employed to measure the change of heat flux of the solutionized specimens during the precipitation . 
+The Si particles in the as - spray - formed alloy were distributed uniformly , and the needle - like eutectic phases , which were observed in the as - squeeze - cast alloy , were not found . 
+However , grain growth was inevitable as shown by the coarsening of Si particles from 2 . 1 μ m to 4 . 7 μ m . 
+Table 3 shows the maximum microhardness and the time to reach it for various solutionizing temperatures . 
+Hence , the microhardness in the sprayformed alloy was higher than that in the squeeze - cast alloy due to the larger amounts of closely adjacent Si particles in the spray - formed alloy . 
+This means that there were more precipitates formed for the spray - formed alloy than for the squeeze - cast alloy during DSC examination . 
+Therefore , the second peak was the occurrence of the largest lattice strain , which the dislocations must be forced through causing the maximum hardness . 
+Comparing with the microhardness , the difference in the macrohardness between the spray - formed and squeeze - cast alloys is not much different . This was attributed to the different deformation behaviors occurring in the hardness test between spray - formed and squeeze - cast alloys . 
+Fig . 11 shows the Al3Ni compounds in the as - spray - formed and as - squeeze - cast alloy , which are the rod - like shape . 
+The peaks of the GP zone and θ ' ' were present in the temperature range of 350 – 500 K , and those of the θ ' and θ occurred in the temperature range of 600 – 700 K . 
+The strength of the alloy increasing after the aging treatment was attributed to the effects of precipitates in the matrix . 
+The primary Si particle sizes in the asspray - formed and as - squeeze - cast alloys are about 2 . 1 μ m and over 100 μ m , respectively . 
+Title : Microstructures and mechanical properties of spray - formed and squeeze - cast Al – 25Si – 0 . 89Cu – 1 . 0Ni – 0 . 84Mg alloys in solutionized and aged conditions 
+The peak - aged spray - formed alloy exhibits an ultimate strength of 366 . 0 MPa , a yield strength of 235 . 3 MPa and an elongation of about 3 . 4 % . 
+The sample sizes used in the heat treatment experiments were 15 mm × 15 mm × 15 mm . 
+Furthermore , in order to identify the phase formation during aging treatment , a DSC instrument with a heating rate of 10 K / min was employed to measure the change of heat flux of the solutionized specimens during the precipitation . 
+The Si particles in the as - spray - formed alloy were distributed uniformly , and the needle - like eutectic phases , which were observed in the as - squeeze - cast alloy , were not found . 
+However , grain growth was inevitable as shown by the coarsening of Si particles from 2 . 1 μ m to 4 . 7 μ m . 
+Table 3 shows the maximum microhardness and the time to reach it for various solutionizing temperatures . 
+Hence , the microhardness in the sprayformed alloy was higher than that in the squeeze - cast alloy due to the larger amounts of closely adjacent Si particles in the spray - formed alloy . 
+This means that there were more precipitates formed for the spray - formed alloy than for the squeeze - cast alloy during DSC examination . 
+Therefore , the second peak was the occurrence of the largest lattice strain , which the dislocations must be forced through causing the maximum hardness . 
+Comparing with the microhardness , the difference in the macrohardness between the spray - formed and squeeze - cast alloys is not much different . This was attributed to the different deformation behaviors occurring in the hardness test between spray - formed and squeeze - cast alloys . 
+Fig . 11 shows the Al3Ni compounds in the as - spray - formed and as - squeeze - cast alloy , which are the rod - like shape . 
+The peaks of the GP zone and θ ' ' were present in the temperature range of 350 – 500 K , and those of the θ ' and θ occurred in the temperature range of 600 – 700 K . 
+The strength of the alloy increasing after the aging treatment was attributed to the effects of precipitates in the matrix . 
+The primary Si particle sizes in the asspray - formed and as - squeeze - cast alloys are about 2 . 1 μ m and over 100 μ m , respectively . 
+Title : Microstructure and phase formation in spray - deposited Al – 18 % Si – 5 % Fe – 1 . 5 % Cu alloy 
+These results have been discussed in light of the mechanisms involved in the spray deposition process . 
+The preforms and over - sprayed powder particles thus generated were sectioned and samples were prepared for microstructural examination using standard metallographic technique . 
+The X - ray diffractograms of the powder as well as the deposit are shownin Fig . 5 ( a ) and ( b ) , respectively . 
+The above microstructural features could be understood in light of the mechanisms involved during spray deposition . 
+In the initial stages of spray deposition , a high cooling rate is encountered at the substrate surface . 
+This has been attributed basically to the large aspect ratio of intermetallics phase , which adds to easy fragmentation under the effect of turbulent fluid flow condition . 
+It has been reported by Choi et al . 
+Title : Microstructure and thermal expansion behavior of spray - deposited Al – 50Si 
+The distance between the atomizing nozzle and the substrate was kept constant at 500 mm during the deposited process . 
+The phases were characterized using a Rigaku D / max - RB X - ray diffractometer ( XRD ) with monochromatic Co K a radiation . 
+As illustrated in Fig . 1 ( a ) , the primary Si displays coarse platelet morphology with an average size of 221 . 4 ± 2 . 1 l m in the cast alloy . 
+Accordingly , no eutectic Al – Si is found in the spray - deposited Al – 50Si alloy . 
+Fig . 4 shows the typical microstructures of the spray - deposited Al – 50Si alloy after HIP at different temperatures . 
+The density of the deposited alloy is lower than the cast alloy , and then it increases with increasing the HIP temperature . 
+Then , the expansion would result from the Al matrix , and primary Si particles as well as from the plastic deformation of the matrix , which may balance part of the expansion due to the Al and Si phases . 
+This is because the Al atoms in Si do not completely precipitate due to the low HIP temperature . 
+They both attributed the increase of CTE in the second heating step to the emergence of thermal stresses . 
+Fig . 8 shows the comparison between calculated and experimental CTE of the different Al – 50Si alloys . 
+The microstructure and the thermal expansion behavior of spray - deposited , cast and HIPed Al – 50Si alloys have been investigated in detail . 
+Title : Spray Casting of Al - 25Si Alloy and Hot Deformation Behavior 
+A 15 - kg - alloy - preform was prepared through the spray casting process with the melt temperature of 850oC . 
+Some pores were observed only in the bottom of the billet . 
+The m values of spray - cast Al - 25Si alloy are found very small at lower temperatures less than 0 . 1 below 300 ° C but appear to increase remarkably reaching upto about 0 . 13 at 500 ° C . 
+The power dissipation maps were constructed from the compression test results as given in Fig . 4 , which is comparable to those of high strength wrought Al alloys such as 7075 and 8090 Al in the value of power dissipation efficiency [ 12 ] . 
+Title : Influence of temperature cycles on strength and microstructure of spray - deposited Si – Al CE9F alloy 
+A first reference batch of 29 specimens was used for characterizing the as - received material . 
+Moreover , from this analysis , the microstructure seems isotropic at this level . 
+This kind of twin boundaries has a low surface energy ( 0 . 06 J m − 2 ) ( Phillpot and Wolf , 1990 ; Bristowe , 1998 ; Kohyama et al . , 1986 ) . 
+However , the histogram of misorientation between two adjacent grains indicates that the number of subgrain boundaries in Si ( misorientation lower than 5 ° ) is about twice in Fig . 4d ( after 500 cycles ) than in Fig . 4b ( as - received ) . 
+Moreover the Weibull modulus significantly increases , indicating that the strength distribution is narrower . 
+These heat treatments correspond to the time spent at the maximal temperature during 80 , 200 and 500 cycles respectively . 
+Heat treatment at 130 ° C implies a decrease of 29 % after 20 h , but the lattice strain does not change anymore afterwards ( Fig . 7d ) . 
+The first one is spread around 150 – 200 ° C and is of low magnitude and the second one is more sharp and manifests as a peak above 400 ° C . 
+This value lies in the range reported in ( Rebhi et al . , 2011 ) , between 0 . 01 and 0 . 06 J g − 1 . 
+Thanks to cyclic thermomechanical stresses induced by the mismatch of coefficients of thermal expansion , temperature cycles are able to activate dynamic recovery mechanisms that continue the static recovery process . 
+In the investigated temperature range , dislocation motion in Si is much more difficult ( Priester , 2006 ) than in Al and is not relevant to explain the changes revealed by Williamson – Hall analyses , as confirmed by the almost constant dislocation density provided by Eq . ( 3 ) ( Fig . 7e and d ) . 
+Such a two - step trend matches the microstructure changes in the Al and Si phases , as described in Sections 4 . 1 and 4 . 2 . 
+The plot of average strength as a function of average crystallite size ( Fig . 9 ) shows a reasonable agreement of the experimental data with the Hall - Petch law , in view of the dispersion of the results . 
+Even if the mechanisms at work are still hypothetic and must be further investigated , these results could be exploited to propose a new step in the processing route of chip boxes , in view of a lightening of the components thanks to higher mechanical properties . 
+Title : Microstructural characterization of in situ TiC / Al and TiC / Al – 20Si – 5Fe – 3Cu – 1Mg composites prepared by spray deposition 
+The experimental results also showed that the ultimate tensile strength of the TiC / Al composites was improved over that of the unreinforced Al matrix . 
+Then , 3 or 5 wt % reactant blocks were inserted into the molten base materials . 
+The spray - deposited specimens had a cylindrical disc shape with a diameter of about 120 mm . 
+Fig . 1 shows a typical SEM microstructure of the spray - deposited Al – 20Si – 5Fe – 3Cu – 1Mg alloy , which is mainly composed of a - Al , plate - shaped Si ( dark gray ) and needle - like second phases ( light gray ) . 
+Figs . 3 and Fig . 4 gave two examples of diffraction pattern analysis for the needle - like compounds . 
+It indicates that the titanium content with a ratio of Ti : C = 1 : 1 may be slightly excessive . 
+Al 4 C 3 and C peaks are still present in the composite with Ti : C = 1 : 1 . 8 , as shown in Fig . 5 ( c ) . 
+Under such a condition , no Al 3 Ti , Al 4 C 3 and residual C can be found in the final product within the precision of the X - ray method ( Fig . 5 ( e ) ) . 
+Based on the results of successfully eliminating Al 3 Ti , Al 4 C 3 and residual graphite in the TiC / Al composites , we prepared spray - deposited TiC / Al – 20Si – 5Fe – 3Cu – 1Mg composites . 
+The results indicated that the TiC / Al composites exhibit relatively higher strengths than the value of unreinforced aluminum . 
+At about 576 ° C , the ternary eutecticum consisting of the α - Al , Si and b - Al 5 FeSi phase is reached . 
+In the beginning of solidification , meta - stable d - Al 4 FeSi 2 phase is crystallized , then primary Si nucleates on the d - Al 4 FeSi 2 phase and grows . 
+The reason for the formation of b - Al 5 FeSi phase is associated with the thermal condition of impinging droplets . 
+From Fig . 8 , one can see that all TiC particles within the matrix are significantly refined compared with the original graphite and titanium particles . 
+These may act effectively as sinks for vacancies and obstacles to the diffusion of silicon atoms over a long distance , particularly along the grain and subgrain boundaries with which the TiC particles interact . 
+Ibrahim et al . [ 63 ] compared the strength values of spray - deposited monolithic alloys and MMCs to those of equivalent materials produced using ingot metallurgy ( IM ) and powder metallurgy ( P / M ) and obtained three important conclusions . 
+It is , however , higher than that of the unreinforced matrices at high reinforcement volume fractions ( e . g . , ⬎ 17 vol . % ) . 
+A novel spray - deposition technique , with which TiC particles are formed by in situ reactions in matrix melt , has been successfully applied to produce TiC / Al and TiC / Al – 20Si – 5Fe – 3Cu – 1Mg composites . 
+The refinement of silicon particles indicated that the addition of TiC particle could create a higher volume fraction of dispersed particles , and act effectively as sinks for vacancies and obstacles to the diffusion of silicon atoms over a long distance . 
+title : Effect of copper and iron on the wear properties of spray formed Al – 28Si alloy 
+The molten metal is atomized by a free fall atomizer using nitrogen ( N2 ) gas . 
+The polished samples were etched with Keller ’ s reagent ( 1 % vol . hydro ﬂ uoric acid ( HF ) , 1 . 5 % vol . hydrochloric acid ( HCl ) , 2 . 5 % vol . nitric acid ( HNO3 ) and rest water ) . 
+The hardness of the alloys was measured by Vickers Hardness Tester ( Mattoon ATK - 600 ) at an applied load of 300 g as per ASTM : E384 - 11e1 . 
+The semi solid droplets are fractured due to inter particle collision in the spray during ﬂ ight and upon impinging on a substrate . 
+Cu was found to exist mainly in the interdendritic Al2Cu phase seen around the Al4FeSi2 phase as Chinese script . 
+The results of hardness measurement are shown in Table 3 . 
+The wear characteristics of Al – 28Si and Al – 28Si – 5Cu – 4Fe alloys for a range of applied load at a sliding velocity of 1 . 5 m / s and a sliding distance of 1025 m are shown in Fig . 6a . 
+As the load increases , the shear stress in the alloy increases which in turn increases the amount of fracture in Si phase and the deformation of the matrix in the surrounding area of Si . The stress concentration resulting from such deformation may critically depend on the size of Si particles and will be more severe at the interface between coarse Si particles and the matrix compared to that between ﬁ ne Si particles and the matrix . 
+This is because of the reason that the quaternary alloy consists of β - Al4FeSi2 and θ - Al2Cu phases . The β - phase is basically hard and increases the hardness of the alloy there by increasing the wear resistance [ 14 ] . 
+The worn surfaces of Al – 28Si and Al – 28Si – 5Cu – 4Fe alloys at a load of 70 N are shown in Fig . 7 . 
+The worn surface of spray formed + hot pressed Al – 28Si alloy shown in Fig . 7e reveals pronounced smooth sliding marks containing shallow grooves with smaller width ridges and few small dimples . 
+The β - phase is hard and increases the hardness of the alloy and θ - Al2Cu phase provides strengthening effect to Al matrix there by reducing the chances of peeling off of Si phase from the Al matrix . 
+The following conclusions may be drawn from the present study on the spray forming and hot pressing of Al – 28Si and Al – 28Si – 5Cu – 4Fe alloys : 
+Title : Properties and microstructure of Al – 11Si / SiCp composite coatings fabricated by thermal spray 
+This powder was mixed with SiC in form of particles ( SiCp ) that were fabricated by Navarro S . A . ( Spain ) with a mean size of 52 μ m , which acted as reinforcement in the coatings deposited . 
+This procedure was selected after testing of various alternative concentrations , catalysts and precursors . 
+To coat big ﬂ at surfaces , parallel layers have been applied with a lateral displacement of the position of the spraying gun relative to the sample of 1 cm , which implies an overlap of about 20 % of the ﬁ rst coating laid . 
+4 . 1 . 
+It can be seen that the porosity in the interface is lower for the sol – gel coated SiCp than without sol – gel coated SiCp . 
+The incorporation of sol – gel silica coatings on the particles increased the reinforcement rates by 10 % , in average . 
+To determine its relevance we have analyzed the morphological characteristics of coatings fabricated with two layers using the same spraying parameters ( in both cases the distance used was 18 cm ) but the amount of material sprayed per time unit , i . e . the feeding rate . 
+Fig . 6 resumes the porosity and reinforcement rates ( Fig . 6a and b , respectively ) measured for the coatings sprayed at two different feeding rates ( 0 . 8 and 1 . 1 g / s ) . 
+However , the use of mixtures with higher SiCp percentages always led to higher hardness values for the same spraying conditions . 
+This can be explained because SiCp cannot directly adhere to the substrate , so the ﬁ rst layer acted as bond coat easing the formation and adhesion of a highly reinforced coating . There is also a preheating effect of the ﬁ rst coating that favours the adhesion of the SiCp . 
+We used the AA6082 with a T6 treatment , i . e . solubilised at 530 ° C and arti ﬁ cially aged for 8 h at 176 ° C , with a hardness of 109 HV . 
+The aluminium powder absorbs more heat than the SiC particles and transfers it more ef ﬁ ciently to the substrate , causing the highest hardness reduction in the coatings deposited without SiCp ; a similar phenomenon took place when higher powder feeding rates were used . 
+In all conditions studied , using sol – gel silica coatings on SiCp reduced the porosity of the coatings to values below 1 % because it enhanced the wettability of the reinforcement by molten aluminium , and also increased the degree of reinforcement of the coatings obtained . 
+Title : Microstructural features induced by spray processing and hot extrusion of an Al – 18 % Si – 5 % Fe – 1 . 5 % Cu alloy 
+Alloy corresponding to the nominal composition Al – 18Si – 5Fe – 1 . 5Cu ( wt . % ) was prepared by melting 4 N purity Al with high - purity Si , Fe and Cu in a graphite - bonded fireclay crucible . 
+The atomization chamber was purged with N 2 gas before the melt was poured into the tundish of the atomization assembly preheated to a temperature of 200 ° C . 
+The alloy was found to contain 17 . 890 % Si , 5 . 190 % Fe , 1 . 632 % Cu , 0 . 007 % Cr , 0 . 004 % Mn , 0 . 012 % Mg , and the balance Al . 
+A further finish was carried out using ion beam milling ( PIPS , Gatan model 691 ) by focusing 3 keV Ar + ions at a glancing angle of 6 ° on the surface of the specimen for a few minutes . 
+Moreover , a uniformity of the distribution of Si and intermetallics in the Al matrix is clearly delineated . 
+Fig . 4 ( a ) shows that the matrix of the alloy has a major primary phase of a - Al with the presence of small amounts of Cu , Si and O ( Al – 1 . 21Si – 0 . 47Cu – 8 . 32O ( at . % ) ) . 
+The existence of only d - Al 4 Si 2 Fe phase in powder particles is in agreement with a previous report [ 16 ] . 
+Most of the intermetallic phases were observed to be well within 30 nm in size . 
+The lamellar structure is fine and elongated with an alternate dark and bright contrast . 
+Analytical characterization at the nanoscale with a probe size of 5 . 9 nm has been carried out using a TEM instrument equipped with EDS capability . 
+The difference in solid solubility of Si and Fe in Al for different regions of the matrix is attributed to local fluctuation in solidification conditions during the spray deposition process . 
+An EDS analysis of an intermetallic phase as illustrated in Fig . 6 and Table 2 , leads to the composition of Si ( 13 . 33 at . % ) and Fe ( 17 . 98 at . % ) in Al . 
+Hot deformation also leads to grain recovery and recrystallization to a certain extent . 
+Fig . 8 ( b ) clearly shows the deformation bands on an Al grain as well as on a coarse Si particle with an array of dislocations distributed throughout . 
+By employing a heat flow model [ 34 ] , it was noticed that a 20 lm droplet solidifies in a very short distance of 0 . 014 m , a 50 lm drop - let solidifies at 0 . 29 m , a coarse droplet of 120 lm is in a mushy state , containing 61 % solid and 39 % liquid , at a flight distance of 0 . 4 m , whereas a droplet of 150 lm is completely in the liquid state , even at 0 . 4 m [ 25 ] . 
+The coarser Si particles are often cracked , whereas the medium - sized and fine Si particles are in good contact with the matrix occasionally showing a partial decohesion characteristic with the matrix . 
+The oversprayed powder particles of Al – 18Si – 5Fe – 1 . 5Cu alloy contain a dispersion of faceted Si particles coexisting with long needle - shaped intermetallics in the primary a - phase of Al . 
+Title : Study on the preparation of the SiCp / Al – 20Si – 3Cu functionally graded material using spray deposition 
+The nominal chemical compositions ( in wt . % ) of the matrix alloy are 20 % Si , 3 . 0 % Cu , 0 . 5 % Mg , 0 . 3 % Mn and balance Al . 
+The ceramic particles are then imported to the venturi ( 26 ) through the impeller ( 23 ) driven by the speed motor ( 24 ) in a high pressure gas channel ( 25 ) when the speed motor ( 24 ) goes into operation . 
+The as - deposited preform is sectioned into the discs with 30 mm in thickness along the deposition direction using the electrical discharge cutting machine for microstructural characterization and microhardness testing . 
+The porosity volume is obtained by 1 − ρ m / ρ t , while ρ m and ρ t are the measured density the theoretical density respectively . 
+As shown in Fig . 2a , the cylindrical preform with 240 mm in diameter and 280 mm in thickness is spray - deposited . 
+The automatic control unit is designed to obtain the solid - gas dual medium ﬂ ow of the graded SiC particles . 
+The distribution of SiC particles in the as - deposited preform along the longitudinal direction is shown in Fig . 4 . 
+To further understand the distribution characteristics of SiC particles in the FGM , samples are sectioned from the preform at a distance of 60 and 210 mm from the bottom respectively and their fractured surfaces are also examined by SEM . 
+As shown in Fig . 7 , the porosity is visible . 
+Samples with the SiCp fraction of 15 % , 10 % and 5 % respectively are taken from the preform and the XRD analysis is conducted to investigate the phase constitutions of the layers with the different SiC addition . 
+As shown in Fig . 9 , the calculated porosity is consistent with the results of micrographs . 
+The detailed investigation on the densi ﬁ cation process and mechanical properties of the Al – 20Si – 3Cu / SiCp FGM is underway . 
+Title : Effect of Cr and Mn on the microstructure of spray - formed Al – 25Si – 5Fe – 3Cu alloy 
+The raw materials included pure Al ( 99 . 7 % purity ) , Al – 40Si ( Si content : 40 % , other impurities ≤ 0 . 5 wt % , Al balanced ) and Al – 50Cu ( Cu content : 50 % other impurities ≤ 0 . 5 wt % , Al balanced ) master alloys , and commercial Fe - ( 75 wt % Fe , the rest is ﬂ ux ) , Mn - ( 75 wt % Mn , the rest is ﬂ ux ) , Cr ( 60 wt % Cr , the rest is ﬂ ux ) additives . 
+Specimens for all FE - SEM ( ZEISS SUPRA55 equipped with energy dispersive spectroscopy ( EDS ) ) observations were prepared by the standard metallographic procedures using SiC abrasive paper , 2 . 5 μ m diamond polishing paste and Keller ’ s reagent . 
+Taking into account the results of the XRD and EDS analyses , it can be deduced that the white short - rod phase might be ␤ - Al5 FeSi / δ - Al4FeSi2 . 
+The δ - Al4 FeSi2 phase is not detected by XRD analysis , as shown in Fig . 2 ( b ) . 
+One can see that the rod - like ( arrow B ) , blocky ( arrow C ) and granular ( arrow D , arrow E ) intermetallic compounds are present accompanied by primary Si ( arrow A ) and Al matrix . 
+Further increasing Mn / Cr content in spray formed alloys with co - addition of Mn and Cr will hardly change the microstructural constituents , but obviously change the microstructural features as revealed in Fig . 5 ( SF - MC12 alloy ) and Fig . 6 ( SF - MC21 alloy ) . 
+That is to say , some of the β phase particles must have a granular shape . 
+The size of the small polygonal intermetallic particle is about 3 – 5 μ m , which is consistent with those of intermetallics shown in the inserts of SEM images . 
+When the temperature reaches peak4 , the eutectic reaction L → Al + Si + Al5FeSi will take place . Finally , the remaining liquid solidify into quaternary eutectic of Al + Si + θ - Al2Cu + Al5FeSi corresponding to peak 5 region . 
+Both Mn and Cr addition can greatly decrease the onset precipitation temperature of primary Si phase and increase the onset temperature of peak 2 . 
+As a result , lower content of β phase is left in the SF - C2 alloy than that in the SF - M2 alloy . 
+Compared the SF - MC21 alloy with the SF - MC12 alloy , one can ﬁ nd that the modi ﬁ cation effect induced by 2 wt % Mn + 1 wt % Cr co - addition is superior to that induced by 1 wt % Mn + 2 wt % Cr coaddition , which implies that the Mn / Cr ratio play an important role in the microstructural modi ﬁ cation . 
+Both the addition of Mn or Cr can modify the characteristics of the intermetallics in the spray - formed alloys through changing the phase precipitation region . 
+Title : Microstructural features induced by spray processing and hot extrusion of an Al – 18 % Si – 5 % Fe – 1 . 5 % Cu alloy 
+Alloy corresponding to the nominal composition Al – 18Si – 5Fe – 1 . 5Cu ( wt . % ) was prepared by melting 4 N purity Al with high - purity Si , Fe and Cu in a graphite - bonded fireclay crucible . 
+The atomization chamber was purged with N 2 gas before the melt was poured into the tundish of the atomization assembly preheated to a temperature of 200 ° C . 
+The alloy was found to contain 17 . 890 % Si , 5 . 190 % Fe , 1 . 632 % Cu , 0 . 007 % Cr , 0 . 004 % Mn , 0 . 012 % Mg , and the balance Al . 
+A further finish was carried out using ion beam milling ( PIPS , Gatan model 691 ) by focusing 3 keV Ar + ions at a glancing angle of 6 ° on the surface of the specimen for a few minutes . 
+Moreover , a uniformity of the distribution of Si and intermetallics in the Al matrix is clearly delineated . 
+Fig . 4 ( a ) shows that the matrix of the alloy has a major primary phase of a - Al with the presence of small amounts of Cu , Si and O ( Al – 1 . 21Si – 0 . 47Cu – 8 . 32O ( at . % ) ) . 
+The existence of only d - Al 4 Si 2 Fe phase in powder particles is in agreement with a previous report [ 16 ] . 
+Most of the intermetallic phases were observed to be well within 30 nm in size . 
+The lamellar structure is fine and elongated with an alternate dark and bright contrast . 
+Analytical characterization at the nanoscale with a probe size of 5 . 9 nm has been carried out using a TEM instrument equipped with EDS capability . 
+The difference in solid solubility of Si and Fe in Al for different regions of the matrix is attributed to local fluctuation in solidification conditions during the spray deposition process . 
+An EDS analysis of an intermetallic phase as illustrated in Fig . 6 and Table 2 , leads to the composition of Si ( 13 . 33 at . % ) and Fe ( 17 . 98 at . % ) in Al . 
+Hot deformation also leads to grain recovery and recrystallization to a certain extent . 
+Fig . 8 ( b ) clearly shows the deformation bands on an Al grain as well as on a coarse Si particle with an array of dislocations distributed throughout . 
+By employing a heat flow model [ 34 ] , it was noticed that a 20 lm droplet solidifies in a very short distance of 0 . 014 m , a 50 lm drop - let solidifies at 0 . 29 m , a coarse droplet of 120 lm is in a mushy state , containing 61 % solid and 39 % liquid , at a flight distance of 0 . 4 m , whereas a droplet of 150 lm is completely in the liquid state , even at 0 . 4 m [ 25 ] . 
+The coarser Si particles are often cracked , whereas the medium - sized and fine Si particles are in good contact with the matrix occasionally showing a partial decohesion characteristic with the matrix . 
+The oversprayed powder particles of Al – 18Si – 5Fe – 1 . 5Cu alloy contain a dispersion of faceted Si particles coexisting with long needle - shaped intermetallics in the primary a - phase of Al . 
+Title : Microstructural characterization of in situ TiC / Al and TiC / Al – 20Si – 5Fe – 3Cu – 1Mg composites prepared by spray deposition 
+The experimental results also showed that the ultimate tensile strength of the TiC / Al composites was improved over that of the unreinforced Al matrix . 
+Then , 3 or 5 wt % reactant blocks were inserted into the molten base materials . 
+The spray - deposited specimens had a cylindrical disc shape with a diameter of about 120 mm . 
+Fig . 1 shows a typical SEM microstructure of the spray - deposited Al – 20Si – 5Fe – 3Cu – 1Mg alloy , which is mainly composed of a - Al , plate - shaped Si ( dark gray ) and needle - like second phases ( light gray ) . 
+Figs . 3 and Fig . 4 gave two examples of diffraction pattern analysis for the needle - like compounds . 
+It indicates that the titanium content with a ratio of Ti : C = 1 : 1 may be slightly excessive . 
+Al 4 C 3 and C peaks are still present in the composite with Ti : C = 1 : 1 . 8 , as shown in Fig . 5 ( c ) . 
+Under such a condition , no Al 3 Ti , Al 4 C 3 and residual C can be found in the final product within the precision of the X - ray method ( Fig . 5 ( e ) ) . 
+Based on the results of successfully eliminating Al 3 Ti , Al 4 C 3 and residual graphite in the TiC / Al composites , we prepared spray - deposited TiC / Al – 20Si – 5Fe – 3Cu – 1Mg composites . 
+The results indicated that the TiC / Al composites exhibit relatively higher strengths than the value of unreinforced aluminum . 
+At about 576 ° C , the ternary eutecticum consisting of the α - Al , Si and b - Al 5 FeSi phase is reached . 
+In the beginning of solidification , meta - stable d - Al 4 FeSi 2 phase is crystallized , then primary Si nucleates on the d - Al 4 FeSi 2 phase and grows . 
+The reason for the formation of b - Al 5 FeSi phase is associated with the thermal condition of impinging droplets . 
+From Fig . 8 , one can see that all TiC particles within the matrix are significantly refined compared with the original graphite and titanium particles . 
+These may act effectively as sinks for vacancies and obstacles to the diffusion of silicon atoms over a long distance , particularly along the grain and subgrain boundaries with which the TiC particles interact . 
+Ibrahim et al . [ 63 ] compared the strength values of spray - deposited monolithic alloys and MMCs to those of equivalent materials produced using ingot metallurgy ( IM ) and powder metallurgy ( P / M ) and obtained three important conclusions . 
+It is , however , higher than that of the unreinforced matrices at high reinforcement volume fractions ( e . g . , ⬎ 17 vol . % ) . 
+A novel spray - deposition technique , with which TiC particles are formed by in situ reactions in matrix melt , has been successfully applied to produce TiC / Al and TiC / Al – 20Si – 5Fe – 3Cu – 1Mg composites . 
+The refinement of silicon particles indicated that the addition of TiC particle could create a higher volume fraction of dispersed particles , and act effectively as sinks for vacancies and obstacles to the diffusion of silicon atoms over a long distance . 
+Title : Effect of rapid solidification on the microstructure and mechanical properties of hot - pressed Al – 20Si – 5Fe alloys 
+The hot consolidation resulted in coarsening of Si particles in the atomized particles , and precipitation of Si and Fe - containing intermetallics from the supersaturated Al matrix in the ribbons . 
+Ribbons were produced by the chill - block melt spinning process by means of impinging a jet of molten alloy onto the cylindrical surface of a copper wheel with a diameter of 23 cm rotating at 40 m / s . 
+The morphology of the particles was evaluated by scanning electron microscopy ( Tescan VEGA Ι Ι XMU , Czech Republic ) . Phase characterization was performed by X - ray diffraction ( XRD , Philips Xpert ) using Cu K α radiation ( λ = 1 . 5406 Å ) at 2 θ - step of 0 . 02 ° and scanning duration of 1 s from 15 ° to 80 ° . 
+The process was performed in a steel die coated with boron nitride under a high purity argon atmosphere . 
+The Vickers hardness of the compacts was determined using a hardness tester ( Instron Wolpert , Germany ) at the indentation load of 30 kg . 
+In the free - side , the microstructure is dendritic , which has an average arm spacing of about 150 ± 20 nm ( Fig . 3d ) . 
+Only diffraction peaks of the aluminum and low - intensity peaks of Si are visible . 
+It is noticeable that the morphology of the acicular intermetallic is changed to spherical shape in the presence of Cr while the composition remained unchanged ( tetragonal δ - Al 4 FeSi 2 ) . 
+The gas - atomized powders and pulverized melt - spun ribbons were hot pressed into bulk cylindrical shapes and the microstructure and mechanical strength of the compacts were examined . 
+The X - ray diffraction pattern of the compacts also shows the presence of β - Al 5 FeSi phase . 
+X - ray diffraction analysis indicated the composition of the intermetallic phase as Al95Fe4Cr ( Fig . 10d ) . 
+The effect of cooling rate and transition alloying elements on the microstructure and mechanical strength of as - solidified and hot - pressed Al – 20Si – 5Fe alloy was studied . 
+After hot consolidation of the gas - atomized powders , the microstructural changes included transformation of metastable δ - phase to stable β - phase and coarsening of silicon particles . 
+Title : Microstructure , thermo - physical and mechanical properties of spray - deposited Si – 30Al alloy for electronic packaging application 
+For the densification , the perform , after being cut into cylindrical billets was hot pressed for 4 h at a temperature of 570 ° C with a pressure of 240 MPa . 
+It can be seen that the optical microscopy microstructure of as - cast alloy is composed of the large block - like primary Si phases and coarse flake eutectic , in Fig . 1 ( a ) . 
+The formation of the globular primary Si phase in the spray - deposited Si – 30Al alloy resulted mainly from the relativity high cooling rates during spraydeposition , which has the intrinsic ability to alter the morphological stability of the Si phase . 
+Al - 68 % SiC composite combines the benefits of compatible and tailorable CTE , high thermal conductivity and low density , it is a pity that the composite with high SiC content is not easily machinable . 
+This makes them ideal candidate materials for electronic packaging and thermal management . 
+Title : The effect of Mn on the microstructure of spray - deposited Al - 20Si - 5Fe - 3Cu - 1Mg alloy 
+When added with a certain proportion to Al - Si alloys , Fe forms a volume fraction of thermally stable intermetallic compounds , and results in a considerable improvement in the hightemperature performance of these materials . 
+The investigation was conducted on three alloys with compositions as given in Table1 . 
+The polished and etched specimens were examined under a CAMBRIDGE S360 scanning electron microscopy ( SEM ) ® tted with an energy - dispersive X - ray ( EDX ) analysis system . 
+The XRD analysis revealed the coexistence of the metastable δ phase and equilibrium β phase in the spray - deposited A0 alloy . 
+Fig . 6 represents the XRD traces with analyzed results , obtained from spray - deposited A1 and A2 alloys , respectively . 
+At about 576 ° C , the ternary eutecticum consisting of the a - Al , Si phase and β phase is formed . 
+Upon droplet deposition , an abrupt fall in solidification rate occurs on the deposit layer . 
+With the addition of 1 wt . % Mn to the spray - deposited A0 alloy , residual Fe in the spray - deposited A1 alloy can be formed d and b compounds after the Al15 ( Fe , Mn ) 3Si2 phase is crystallized . 
+Thus , the mechanical properties ( particularly the high - temperature performance ) of spray - deposited Al - 20Si - 5Fe - 3Mn - 3Cu - 1Mg alloy are improved as a result of the needlelike Al - Si - Fe compounds are substituted by the particle - like Al - Si - Fe - Mn compound . 
+Wear behavior of secondary processed spray formed Al - 28Si - 5Cu - 4Mg alloy 
+The wear behavior of both the alloys , under dry sliding conditions , showed an increase in the wear rate with an increase in the load . 
+Specimens of size 100 x 30 x 20 mm were cut from the preforms . 
+The counterpart disc was made of quenched and tempered EN - 32 steel having a surface hardness of 65HRC . 
+Fig . 1 ( b ) shows the optical microstructure of as - spray formed alloy , which is composed of uniformly distributed primary Si particles , intermetallic secondary phases containing Cu and Mg in Al - matrix . 
+The microstructure of alloy exhibited coexisting faceted primary Si particles and fine plates of complex intermetallic phases . 
+The dendritic as well as the Chinese script structures observed in the as - cast alloy are modified and it is difficult to discern the difference between primary Al2Cu and Q phases . 
+The higher hardness of spray formed + hot pressed alloy can be atributed to the microstructrural refinement of θ - Al2Cu and Q phases owing to the rapid solidification effect and partial recrystallization , fragmentation of θ - Al2Cu and Q phases further and reduced porosity due to hot pressing . 
+The microstructural features like morphology , size and distribution of hard intermetallics ( Q - phase ) and θ - Al2Cu precipitates have a large influence on the dry sliding wear behavior of alloy [ Haq01 ] . 
+Under such conditions , metallic wear takes place . 
+This fine dispersion provides strength to the matrix and the bonding between these phases and the matrix is strong enough to retain them to the matrix during wear leading to a low wear rate [ Wan04 ] . 
+The following conclusions may be drawn from the present investigation on the spray forming and hot pressing of Al - 28Si - 5Cu - 4Mg alloy . The microstructure of spray formed and hot pressed alloy consists of fine and uniform distribution of both primary and eutectic Si with fine needles of Q - Al12Si7Mg4Fe intermetallics and Chinese script like θ - Al2Cu precipitates in the Al - matrix . Hot pressing has reduced the porosity from 10 to 1 % in spray formed alloy . The hardness of spray formed and hot pressed alloy is 142 VHN and that of as - cast alloy is 82 VHN . The wear resistance of spray formed and hot pressed alloy is higher than that of the as - cast alloy . The worn surface is less damaged and the debris particles are smaller in spray formed and hot pressed alloy compared to that in the as - cast alloy . 
+Title : Effect of Cu and Mg on the wear properties of spray formed Al - 22Si alloy 
+The wear study of both as - cast and spray formed and hot pressed alloys under an applied load of 10 to 50 N and sliding velocity of 0 . 4 to1 . 5 ms - 1 indicated two distinct regimes of mild and severe wear . In both the regimes , the spray - formed and hot pressed alloys consistently indicated a low wear rate compared to that of as - cast alloys . The high wear resistance of spray formed and hot pressed Al – 22Si and Al – 22Si – 4Cu – 1 . 7Mg alloys were explained in the light of their microstructural modifications induced during spray forming and subsequent hot pressing . 
+The density of spray formed alloys was measured by using Archimedes principle as per ASTM : B962 – 08 . The percentage of porosity ( % P ) in the spray formed alloys was measured by using the actual density ( ρ ac ) and the theoretical density ( ρ th ) of the alloys using the relation , % P = [ 1 - ( ρ ac / ρ th ) ] x 100 . The samples were prepared by polishing using standard metallographic techniques of grinding on emery paper with 1 / 0 , 2 / 0 , 3 / 0 and 4 / 0 specifications and cloth polishing . 
+All the experiments were carried out under dry sliding conditions and data was recorded at room temperature . 
+It consists of coarse primary Si particles in the form of plate like / fishbone structure while , eutectic phase comprises of Si needles randomly distributed in the Al - matrix . The phase composition of as - cast Al - 22Si alloy is shown in Table 3 . 
+The microstructure consists of an equiaxed , nearly spheroidized grain morphology of α - Al matrix . 
+The size of Si particles varied from 3 to 20 µ m compared to large particle size of 150 µ m in as - cast alloy . The various phases present are grey colored Si particulates as a major element , grey colored intermetallic Q - Al48Si29Mg18Fe4 phase and bright white phase of θ - Al2Cu . 
+The solidification of as - cast Al - 22Si and Al - 22Si - 4Cu - 1 . 7Mg alloys , due to slow cooling rate and broad temperature interval between the liquidus and solidus of higher Si content composite in the pseudo binary section will cause castings with a coarse plate like Si , needle like Q and Chinese script like Al2Cu phases . 
+The porosity has been observed in the deposits and was uniformly distributed . 
+The results of hardness measurement of spray formed + hot pressed ( SF + HP ) Al - 22Si and Al - 22Si - 4Cu - 1 . 7Mg alloys are as shown in the Table 7 . 
+In the entire range of applied load , the SF + HP Al - 22Si - 4Cu - 1 . 7Mg alloy exhibited best wear resistance . 
+The spray formed and hot pressed alloys indicate lowest coefficient of friction , whereas the highest friction coefficients occurred in the as - cast alloys . 
+At low loads , more time is available for the formation and growth of micro - welds , which increases the force needed to shear - off the micro - welds to keep the relative motion and this leads to an increase in wear resistance . 
+The dispersoids of intermetallics phase in Al - 22Si - 4Cu - 1 . 7Mg alloy possess higher hardness compared to that of eutectic Si phase in Al - 22Si alloy . 
+This is indicated by a significantly high wear rate of the material with further increase in the sliding velocity . 
+Additionally , the delamination wear component can be concluded from the cracks and shallow craters , which are seen at the worn surface . 
+It seems that the coarse phases are readily fractured and broken off during wear weakening the matrix leading to a high wear rate . 
+The spray formed and hot pressed alloys show maximum hardness compared to as - cast alloys . 
+Title : Microstructural characterisation of spray formed Si – 30Al for thermal management applications 
+Hypereutectic Al - high Si alloys possess a combination of physical properties that make them attractive for thermal management applications , including the required relatively high thermal conductivity , low density , and a linear variation in CTE with temperature [ 4 , 5 ] . 
+The trajectory of the resulting droplets comprising the spray was intercepted by a ceramic collector plate manipulated within the spray cone to build - up progressively a coherent billet [ 6 , 7 ] . 
+Figure 1 shows optical micrographs of spray formed and HIPed Si – 30Al ( SFSi30Al ) and an as - cast Si – 30Al alloy for comparison . 
+Figure 3 ( b ) and ( c ) show the corresponding { 0 0 1 } PF and inverse pole ﬁ gures ( IPF ) respectively indicating that the h0 0 1i direction was aligned approximately with the spray formed billet axis to within 15 . Although this ﬁ nding suggests that the Al - rich grains grew with a preferred h0 0 1i direction through the preexisting Si , other regions of the billet showed similarly sized regions in which the Al - rich grain < 1 1 0 > and h1 1 1i directions were approximately normal to the billet axial direction . 
+At this temperature the billet comprises ~ 40 wt . % liquid at a composition of Al – 22 % Si [ 8 ] distributed throughout the solid primary Si network . 
+Figure 6 ( a ) shows the Si IPF obtained using EBSD from a 1750 μ m x 750 μ m area of the XRD sample corresponding to ~ 14 , 000 grains where the contours indicate the levels of crystallographic alignment . 
+EBSD investigation of a 1750 μ m x 750 μ m area of this same XRD sample con ﬁ rmed a ~ 250 μ m region oriented near to < 1 1 1 > . The occasional regions of ﬁ ne equiaxed Al grains shown in Figure 3 ( a ) are formed when either the liquid in these regions becomes isolated from the larger growing Al grains , or local compositional and undercooling conditions favour heterogeneous nucleation of new Al grains . 
+title : Effect of copper and iron on the wear properties of spray formed Al – 28Si alloy 
+The molten metal is atomized by a free fall atomizer using nitrogen ( N2 ) gas . 
+The polished samples were etched with Keller ’ s reagent ( 1 % vol . hydro ﬂ uoric acid ( HF ) , 1 . 5 % vol . hydrochloric acid ( HCl ) , 2 . 5 % vol . nitric acid ( HNO3 ) and rest water ) . 
+The hardness of the alloys was measured by Vickers Hardness Tester ( Mattoon ATK - 600 ) at an applied load of 300 g as per ASTM : E384 - 11e1 . 
+The semi solid droplets are fractured due to inter particle collision in the spray during ﬂ ight and upon impinging on a substrate . 
+Cu was found to exist mainly in the interdendritic Al2Cu phase seen around the Al4FeSi2 phase as Chinese script . 
+The results of hardness measurement are shown in Table 3 . 
+The wear characteristics of Al – 28Si and Al – 28Si – 5Cu – 4Fe alloys for a range of applied load at a sliding velocity of 1 . 5 m / s and a sliding distance of 1025 m are shown in Fig . 6a . 
+As the load increases , the shear stress in the alloy increases which in turn increases the amount of fracture in Si phase and the deformation of the matrix in the surrounding area of Si . The stress concentration resulting from such deformation may critically depend on the size of Si particles and will be more severe at the interface between coarse Si particles and the matrix compared to that between ﬁ ne Si particles and the matrix . 
+This is because of the reason that the quaternary alloy consists of β - Al4FeSi2 and θ - Al2Cu phases . The β - phase is basically hard and increases the hardness of the alloy there by increasing the wear resistance [ 14 ] . 
+The worn surfaces of Al – 28Si and Al – 28Si – 5Cu – 4Fe alloys at a load of 70 N are shown in Fig . 7 . 
+The worn surface of spray formed + hot pressed Al – 28Si alloy shown in Fig . 7e reveals pronounced smooth sliding marks containing shallow grooves with smaller width ridges and few small dimples . 
+The β - phase is hard and increases the hardness of the alloy and θ - Al2Cu phase provides strengthening effect to Al matrix there by reducing the chances of peeling off of Si phase from the Al matrix . 
+The following conclusions may be drawn from the present study on the spray forming and hot pressing of Al – 28Si and Al – 28Si – 5Cu – 4Fe alloys : 

@@ -1,0 +1,10 @@
+USING SKIP CONNECTIONS
+Saving variable lm/embedding:0 with name embedding
+Saving variable lm/RNN_0/rnn/multi_rnn_cell/cell_0/lstm_cell/kernel:0 with name RNN_0/RNN/MultiRNNCell/Cell0/LSTMCell/W_0
+Saving variable lm/RNN_0/rnn/multi_rnn_cell/cell_0/lstm_cell/bias:0 with name RNN_0/RNN/MultiRNNCell/Cell0/LSTMCell/B
+Saving variable lm/RNN_0/rnn/multi_rnn_cell/cell_1/lstm_cell/kernel:0 with name RNN_0/RNN/MultiRNNCell/Cell1/LSTMCell/W_0
+Saving variable lm/RNN_0/rnn/multi_rnn_cell/cell_1/lstm_cell/bias:0 with name RNN_0/RNN/MultiRNNCell/Cell1/LSTMCell/B
+Saving variable lm/RNN_1/rnn/multi_rnn_cell/cell_0/lstm_cell/kernel:0 with name RNN_1/RNN/MultiRNNCell/Cell0/LSTMCell/W_0
+Saving variable lm/RNN_1/rnn/multi_rnn_cell/cell_0/lstm_cell/bias:0 with name RNN_1/RNN/MultiRNNCell/Cell0/LSTMCell/B
+Saving variable lm/RNN_1/rnn/multi_rnn_cell/cell_1/lstm_cell/kernel:0 with name RNN_1/RNN/MultiRNNCell/Cell1/LSTMCell/W_0
+Saving variable lm/RNN_1/rnn/multi_rnn_cell/cell_1/lstm_cell/bias:0 with name RNN_1/RNN/MultiRNNCell/Cell1/LSTMCell/B
