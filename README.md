@@ -1,4 +1,4 @@
-# Al-Si Alloy ER Extract Dataset and Code
+# Al-Si Alloy ER Extraction Dataset and Code
 There are two parts in the Al-Si Alloy ER Extract Dataset and Code, our dataset is in the Al-Si ER Extract Dataset folder and the code is in the code folder.
 ## Operating environment
 CUDA	10.2	numpy	1.19.4
