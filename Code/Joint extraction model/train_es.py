@@ -7,8 +7,7 @@ import sys
 import os.path
 
 import copy
-'Train the model on the train set and evaluate on the evaluation and test sets until ' \
-'(1) maximum epochs limit or (2) early stopping break'
+
 def checkInputs():
     if (len(sys.argv) <= 3) or os.path.isfile(sys.argv[0])==False :
         raise ValueError(
@@ -48,7 +47,7 @@ if __name__ == "__main__":
         sess.run(tf.global_variables_initializer())
 
         best_score=0
-        nepoch_no_imprv = 0  # for early stopping
+        nepoch_no_imprv = 0 
 
         for iter in range(config.nepochs+1):
 

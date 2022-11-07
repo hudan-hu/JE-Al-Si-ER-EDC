@@ -3,11 +3,6 @@ import copy
 from prettytable import PrettyTable
 
 
-"""
-Set of classes and methods for computing and printing the results using the strict, boundaries and relaxed evaluation methods.
-For more info about how to use them see tf_utils.py
-"""
-
 class printClasses():
     def __init__(self):
         self.t = PrettyTable(['Class', 'TP', 'FP', 'FN', 'Pr', 'Re', 'F1'])
@@ -21,14 +16,7 @@ class printClasses():
 
 
 def get_chunk_type(tok, idx_to_tag):
-    # method implemented in https://github.com/guillaumegenthial/sequence_tagging/blob/master/model/data_utils.py
-    """
-    Args:
-        tok: id of token, ex 4
-        idx_to_tag: dictionary {4: "B-PER", ...}
-    Returns:
-        tuple: "B", "PER"
-    """
+
     tag_name = idx_to_tag[tok]
     tag_class = tag_name.split('-')[0]
     tag_type = tag_name.split('-')[-1]
@@ -36,32 +24,17 @@ def get_chunk_type(tok, idx_to_tag):
 
 
 def get_chunks(seq, tags):
-    # method implemented in https://github.com/guillaumegenthial/sequence_tagging/blob/master/model/data_utils.py
-    """Given a sequence of tags, group entities and their position
-    Args:
-        seq: [4, 4, 0, 0, ...] sequence of labels
-        tags: dict["O"] = 4
-    Returns:
-        list of (chunk_type, chunk_start, chunk_end)
-    Example:
-        seq = [4, 5, 0, 3]
-        tags = {"B-PER": 4, "I-PER": 5, "B-LOC": 3}
-        result = [("PER", 0, 2), ("LOC", 3, 4)]
-    """
 
     default = tags['O']
     idx_to_tag = {idx: tag for tag, idx in tags.items()}
     chunks = []
     chunk_type, chunk_start = None, None
     for i, tok in enumerate(seq):
-        # End of a chunk 1
         if tok == default and chunk_type is not None:
-            # Add a chunk.
             chunk = (chunk_type, chunk_start, i-1)
             chunks.append(chunk)
             chunk_type, chunk_start = None, None
 
-        # End of a chunk + start of a chunk!
         elif tok != default:
             tok_chunk_class, tok_chunk_type = get_chunk_type(tok, idx_to_tag)
             if chunk_type is None:
@@ -73,7 +46,6 @@ def get_chunks(seq, tags):
         else:
             pass
 
-    # end condition
     if chunk_type is not None:
         chunk = (chunk_type, chunk_start, len(seq)-1)
         chunks.append(chunk)
@@ -91,7 +63,6 @@ def relationChunks(relations, ners, relationTuple="boundaries_type"):
         right_chunk = ""
         for ner in ners:
             if rel[0] >= ner[1] and rel[0] <= ner[2]:
-                # print (ner)
                 if relationTuple == "boundaries_type":
                     left_chunk = ner
                 elif relationTuple == "boundaries":
@@ -99,7 +70,6 @@ def relationChunks(relations, ners, relationTuple="boundaries_type"):
                 elif relationTuple == "type":
                     left_chunk = (ner[0])
             if rel[2] >= ner[1] and rel[2] <= ner[2]:
-                # print (ner)
                 if relationTuple == "boundaries_type":
                     right_chunk = ner
                 elif relationTuple == "boundaries":
@@ -113,7 +83,6 @@ def relationChunks(relations, ners, relationTuple="boundaries_type"):
 def getTokenRelations(label_names, head_ids, token_ids):
         relations = []
         for labelLIdx in range(len(label_names)):
-            # print (predLabel)
             labelL = label_names[labelLIdx]
             headL = head_ids[labelLIdx]
             tokenId = token_ids[labelLIdx]
@@ -121,12 +90,9 @@ def getTokenRelations(label_names, head_ids, token_ids):
 
                 label = labelL[labelIdx]
                 head = headL[labelIdx]
-                # print (label)
-                # print ((tokenId)+" "+ label+ " " + head)
+
                 if label != "N":
-                    # print (label)
                     relations.append((tokenId, label, head))
-                    # print (tokenId,label,head)
         return relations
 
 
@@ -134,8 +100,6 @@ def keepOnlyChunkBoundaries(ners):
     nersNoBounds = []
     ners = list(ners)
     for ner in ners:
-        # ner[0]=None
-        # print (ner)
         nersNoBounds.append((None, ner[1], ner[2]))
     return nersNoBounds
 
@@ -203,10 +167,9 @@ class chunkEvaluator:
 
             predRel = getTokenRelations(plabel_names, phead_ids, ptoken_ids)
 
-            tagsNER = utils.getSegmentationDict(self. nerSegmentationTags)#self.
+            tagsNER = utils.getSegmentationDict(self. nerSegmentationTags)
 
             if self.ner_chunk_eval == "boundaries_type":
-                # print("trueNER",trueNER,"tagsNER",tagsNER)
                 lab_chunks = set(get_chunks(trueNER, tagsNER))
                 lab_pred_chunks = set(get_chunks(predNER, tagsNER))
 
@@ -226,11 +189,9 @@ class chunkEvaluator:
                 for lab_idx in range(len(lab_pred_chunks_list)):
 
                     if lab_pred_chunks_list[lab_idx] in lab_chunks_list:
-                        # print (lab_pred_chunks_list[lab_idx][0])
                         self.tpsClassesNER[lab_pred_chunks_list[lab_idx][0]] += 1
                     else:
                         self.fpsClassesNER[lab_pred_chunks_list[lab_idx][0]] += 1
-                        # fnsEntitiesNER+=1
 
                 for lab_idx in range(len(lab_chunks_list)):
 
@@ -241,11 +202,9 @@ class chunkEvaluator:
                 for lab_idx in range(len(lab_pred_chunks_list)):
 
                     if lab_pred_chunks_list[lab_idx] in lab_chunks_list:
-                        # print (lab_pred_chunks_list[lab_idx][0])
                         self.tpsNER += 1
                     else:
                         self.fpsNER += 1
-                        # fnsEntitiesNER+=1
 
                 for lab_idx in range(len(lab_chunks_list)):
 
@@ -268,22 +227,16 @@ class chunkEvaluator:
 
                 relPred = set(relationChunks(predRel, lab_pred_chunks_list,relationTuple=self.rel_chunk_eval))
 
-            relTrueList = list(relTrue)  # trueRel#
+            relTrueList = list(relTrue) 
 
-            # if (len(trueRel)!=len(relTrueList)):
-            #    print ("warning")
-
-            relPredList = list(relPred)  # predRel#
+            relPredList = list(relPred)  
 
             for lab_idx in range(len(relPredList)):
 
                 if relPredList[lab_idx] in relTrueList:
-                    # print (lab_pred_chunks_list[lab_idx][0])
                     self.tpsClassesREL[relPredList[lab_idx][1]] += 1
-                    # print (relPredList[lab_idx])
                 else:
                     self.fpsClassesREL[relPredList[lab_idx][1]] += 1
-                    # fnsEntitiesNER+=1
 
             for lab_idx in range(len(relTrueList)):
 
@@ -472,7 +425,6 @@ class chunkEvaluator:
 
 
 
-                # print('%s TP: %d  FP: %d  FN: %d TN: %d precision: %f recall: %f F1: %f' % (label,self.tpsClasses[label],self.fpsClasses[label],self.fnsClasses[label],self.tnsClasses[label], self.precision[label], self.recall[label], self.f1[label]))
             printer.add("-", "-", "-", "-",
                         "-", "-",
                         "-")
@@ -502,7 +454,6 @@ class chunkEvaluator:
 
 
 
-                # print('%s TP: %d  FP: %d  FN: %d TN: %d precision: %f recall: %f F1: %f' % (label,self.tpsClasses[label],self.fpsClasses[label],self.fnsClasses[label],self.tnsClasses[label], self.precision[label], self.recall[label], self.f1[label]))
         printer.add("-", "-", "-", "-",
                     "-", "-",
                     "-")
@@ -530,7 +481,6 @@ def classesToChunks(tokenClasses, chunks):
             labeled_chunks.append((chunk[0], chunk[1], chunk[2]))
         else:
             labeled_chunks.append((getMaxOccurence(class_list), chunk[1], chunk[2]))
-            # print (class_list)
     return labeled_chunks
 
 
@@ -551,10 +501,8 @@ class relaxedChunkEvaluator:
     def __init__(self,dataset_params,rel_chunk_eval="boundaries"):
         self.nerSegmentationTags=dataset_params.dataset_set_bio_tags
 
-        self.NERset = dataset_params.dataset_set_ec_tags#utils.getNerSetACE04()
-        self.RELset = dataset_params.dataset_set_relations#reutils.getRelSetACE04()
-        #self.nerDict=dataset_params
-        # print (self.NERset)
+        self.NERset = dataset_params.dataset_set_ec_tags
+        self.RELset = dataset_params.dataset_set_relations
         self.rel_chunk_eval=rel_chunk_eval
         self.totals = 0
         self.oks = 0
@@ -629,14 +577,11 @@ class relaxedChunkEvaluator:
 
             predRel = getTokenRelations(plabel_names, phead_ids, ptoken_ids)
 
-
-            #print (self.NERset)
-            tagsNER = utils.getSegmentationDict(self.nerSegmentationTags)#self.
+            tagsNER = utils.getSegmentationDict(self.nerSegmentationTags)
 
 
 
             lab_chunks_ = set(get_chunks(listOfTagsToids(trueBIONER,self.nerSegmentationTags), tagsNER))
-            #lab_pred_chunks = set(get_chunks(predNER, tagsNER))
 
             lab_chunks_list_ = list(lab_chunks_)
 
@@ -654,11 +599,9 @@ class relaxedChunkEvaluator:
             for lab_idx in range(len(lab_pred_chunks_list)):
 
                 if lab_pred_chunks_list[lab_idx] in lab_chunks_list:
-                    # print (lab_pred_chunks_list[lab_idx][0])
                     self.tpsClassesNER[lab_pred_chunks_list[lab_idx][0]] += 1
                 else:
                     self.fpsClassesNER[lab_pred_chunks_list[lab_idx][0]] += 1
-                    # fnsEntitiesNER+=1
 
             for lab_idx in range(len(lab_chunks_list)):
 
@@ -669,26 +612,16 @@ class relaxedChunkEvaluator:
 
             relPred = set(relationChunks(predRel, lab_pred_chunks_list,relationTuple=self.rel_chunk_eval))
 
-            relTrueList = list(relTrue)  # trueRel#
+            relTrueList = list(relTrue)  
 
-            # if (len(trueRel)!=len(relTrueList)):
-            #    print ("warning")
-
-            relPredList = list(relPred)  # predRel#
-
-            #print("GOLD REL chunks:" + str(relTrueList))
-
-            #print("PRED REL chunks:" + str(relPredList))
+            relPredList = list(relPred) 
 
             for lab_idx in range(len(relPredList)):
 
                 if relPredList[lab_idx] in relTrueList:
-                    # print (lab_pred_chunks_list[lab_idx][0])
                     self.tpsClassesREL[relPredList[lab_idx][1]] += 1
-                    # print (relPredList[lab_idx])
                 else:
                     self.fpsClassesREL[relPredList[lab_idx][1]] += 1
-                    # fnsEntitiesNER+=1
 
             for lab_idx in range(len(relTrueList)):
 
@@ -757,7 +690,6 @@ class relaxedChunkEvaluator:
         fpsREL=0
 
         for label in self.NERset:
-            # if label != "O" :
             tpsNER += self.tpsClassesNER[label]
 
             fnsNER += self.fnsClassesNER[label]
@@ -785,7 +717,6 @@ class relaxedChunkEvaluator:
         fpsREL=0
 
         for label in self.NERset:
-            # if label != "O" :
             tpsNER += self.tpsClassesNER[label]
 
             fnsNER += self.fnsClassesNER[label]
@@ -830,7 +761,6 @@ class relaxedChunkEvaluator:
 
 
         for label in self.NERset:
-            # if label != "O" :
             tpsNER += self.tpsClassesNER[label]
 
             fnsNER += self.fnsClassesNER[label]
@@ -900,7 +830,6 @@ class relaxedChunkEvaluator:
 
 
 
-            # print('%s TP: %d  FP: %d  FN: %d TN: %d precision: %f recall: %f F1: %f' % (label,self.tpsClasses[label],self.fpsClasses[label],self.fnsClasses[label],self.tnsClasses[label], self.precision[label], self.recall[label], self.f1[label]))
         printer.add("-", "-", "-", "-",
                     "-", "-",
                     "-")
@@ -963,7 +892,6 @@ class relaxedChunkEvaluator:
 
 
 
-                # print('%s TP: %d  FP: %d  FN: %d TN: %d precision: %f recall: %f F1: %f' % (label,self.tpsClasses[label],self.fpsClasses[label],self.fnsClasses[label],self.tnsClasses[label], self.precision[label], self.recall[label], self.f1[label]))
         printer.add("-", "-", "-", "-",
                     "-", "-",
                     "-")
@@ -1007,7 +935,6 @@ class relaxedChunkEvaluator:
             printer = printClasses()
 
             for label in self.NERset:
-                # if label != "O" :
                 self.tpsNER += self.tpsClassesNER[label]
 
                 self.fnsNER += self.fnsClassesNER[label]
@@ -1020,7 +947,6 @@ class relaxedChunkEvaluator:
 
 
 
-                # print('%s TP: %d  FP: %d  FN: %d TN: %d precision: %f recall: %f F1: %f' % (label,self.tpsClasses[label],self.fpsClasses[label],self.fnsClasses[label],self.tnsClasses[label], self.precision[label], self.recall[label], self.f1[label]))
             printer.add("-", "-", "-", "-",
                         "-", "-",
                         "-")
@@ -1047,7 +973,6 @@ class relaxedChunkEvaluator:
 
 
 
-                    # print('%s TP: %d  FP: %d  FN: %d TN: %d precision: %f recall: %f F1: %f' % (label,self.tpsClasses[label],self.fpsClasses[label],self.fnsClasses[label],self.tnsClasses[label], self.precision[label], self.recall[label], self.f1[label]))
             printer.add("-", "-", "-", "-",
                         "-", "-",
                         "-")

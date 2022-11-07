@@ -65,7 +65,6 @@ def transformToInitialInput(matrix,tags):
             head_labels_ids[token_id].append(head_label_id)
             labels_name[token_id].append(tags[label_id])
 
-            # print (str(token_id) + " " +str(head_label_id)+ " " +str(head_id)+ " " +str(labels_name))
         return tokens_ids, head_labels_ids, labels_ids, heads_ids, labels_name
 
 
@@ -75,7 +74,6 @@ def getCharsFromDocuments(documents):
     for doc in documents:
         for tokens in doc.tokens:
             for char in tokens:
-                # print (token)
                 chars.append(char)
     chars = list(set(chars))
     chars.sort()
@@ -142,7 +140,6 @@ def getScoringMatrixHeads(listofRelations, setofLabels, heads):
 
 
     for relIdx in range(len(relationIds)):
-        # print (rels[relIdx]*getNumberOfClasses()+labelJointIds[relIdx])
         scoringMatrixHeads.append(heads[relIdx] * len(setofLabels) + relationIds[relIdx])
     return scoringMatrixHeads
 
@@ -334,15 +331,10 @@ def generator(data, m,config,train=False):
         # shuffled_data, _, shuffled_data_idx, _ = train_test_split(data_copy.data, data_copy.indices, test_size=0,random_state=42)
 
         data_copy = HeadData(shuffled_data, shuffled_data_idx)
-        # print ("shuffle:"+ str(shuffle) )
-        # print(data_copy.indices)
     else:
-
         data_copy = HeadData(data_copy.data, data_copy.indices)
         # data_copy = HeadData(data_copy.data, data_copy.indices)
 
-        # print("shuffle:" + str(shuffle))
-        # print(data_copy.indices)
 
     # batchsize=16 # number of documents per batch
     batches_embeddingIds = []  # e.g., 131 batches
@@ -389,10 +381,7 @@ def generator(data, m,config,train=False):
     sumLen = 0
     for docIdx in range(len(data_copy.data)):
         doc = data_copy.data[docIdx]
-        # print (doc)
         if docIdx % config.batchsize == 0 and docIdx > 0:
-            # print (docIdx)
-            # print ("new batch")
             batches_embeddingIds.append(docs_batch_embeddingIds)
             batches_charIds.append(docs_batch_charIds)
 
@@ -455,9 +444,6 @@ def generator(data, m,config,train=False):
                 scoringMatrix[tokenIdx, head] = 1
 
         docs_batch_scoringMatrix.append(scoringMatrix)
-        # print (scoringMatrix)
-
-        #print (doc.jlabel_names)
         if config.ner_classes=="BIO":
             docs_batch_entity_tags.append(doc.BIOs)##to do
             docs_batch_entity_tags_ids.append(doc.BIO_ids)
@@ -490,7 +476,6 @@ def generator(data, m,config,train=False):
             wordLenList.append(wordLens)
             # maxDocLen.append(maxWordLen)
 
-    # print(maxDocLen)
     for bIdx in range(len(batches_embeddingIds)):
 
         batch_embeddingIds = batches_embeddingIds[bIdx]
@@ -523,13 +508,10 @@ def generator(data, m,config,train=False):
                 if tokenLen<maxWordLenList[bIdx]:
 
                     for i in np.arange(maxWordLenList[bIdx]-tokenLen):
-                        #print (charIds_doc)
                         charIds_doc[tokenIdx].append(0)
 
 
             if len(embeddingId_doc) < maxDocLenList[bIdx]:
-                # print  (maxWordLen-len(word_doc))
-                # print ('here')
                 for i in np.arange(maxDocLenList[bIdx] - len(embeddingId_doc)):
                     # pass
                     embeddingId_doc.append(0)
@@ -571,7 +553,6 @@ def generator(data, m,config,train=False):
         vocab_file = "bilm/model/vocab_hash.txt"
         batcher = TokenBatcher(vocab_file)
         context=batcher.batch_sentences(np.asarray(batches_tokens[bIdx]))
-        # print(context)
 
 
 

@@ -1,3 +1,0 @@
-model_checkpoint_path: "/home/ubuntu/Downloads/bilm-tf-master (2)/tests/fixtures/train/dim_100/model.ckpt-7300"
-all_model_checkpoint_paths: "/home/ubuntu/Downloads/bilm-tf-master (2)/tests/fixtures/train/dim_100/model.ckpt-6250"
-all_model_checkpoint_paths: "/home/ubuntu/Downloads/bilm-tf-master (2)/tests/fixtures/train/dim_100/model.ckpt-7300"

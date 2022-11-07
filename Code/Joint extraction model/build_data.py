@@ -4,17 +4,13 @@ import parsers
 from sklearn.externals import joblib
 import os.path
 
-""""Read the configuration file and set the parameters of the model"""
-
 class build_data():
     def __init__(self,fname):
 
 
         config_file=parsers.read_properties(fname)
-        #print("\nConfiguration file {} loaded \n".format(fname))
         self.config_fname=fname
 
-        # load data
         self.filename_embeddings = config_file.getProperty("filename_embeddings")
         self.filename_train=config_file.getProperty("filename_train")
         self.filename_test=config_file.getProperty("filename_test")
@@ -23,8 +19,6 @@ class build_data():
         self.train_id_docs = parsers.readHeadFile(self.filename_train)
         self.dev_id_docs = parsers.readHeadFile( self.filename_dev)
         self.test_id_docs = parsers.readHeadFile(self.filename_test)
-        # print(self.train_id_docs)
-        # get labels for the whole collection
         dataset_documents = []
         dataset_documents.extend(self.train_id_docs)
         dataset_documents.extend(self.dev_id_docs)
@@ -55,7 +49,6 @@ class build_data():
 
 
 
-        # training
         self.nepochs = int(config_file.getProperty("nepochs"))
         self.optimizer = config_file.getProperty("optimizer")
         self.activation =config_file.getProperty("activation")
@@ -71,7 +64,6 @@ class build_data():
 
 
 
-        # hyperparameters
         self.dropout_embedding = float(config_file.getProperty("dropout_embedding"))
         self.dropout_lstm = float(config_file.getProperty("dropout_lstm"))
         self.dropout_lstm_output = float(config_file.getProperty("dropout_lstm_output"))
@@ -80,14 +72,12 @@ class build_data():
         self.dropout_fcl_rel = float(config_file.getProperty("dropout_fcl_rel"))
         self.hidden_size_lstm =int(config_file.getProperty("hidden_size_lstm"))
         self.hidden_size_n1 = int(config_file.getProperty("hidden_size_n1"))
-        #self.hidden_size_n2 = config_file.getProperty("hidden_size_n2")
         self.num_lstm_layers = int(config_file.getProperty("num_lstm_layers"))
         self.char_embeddings_size = int(config_file.getProperty("char_embeddings_size"))
         self.hidden_size_char = int(config_file.getProperty("hidden_size_char"))
         self.label_embeddings_size = int(config_file.getProperty("label_embeddings_size"))
         self.alpha = float(config_file.getProperty("alpha"))
 
-        # evaluation
         self.evaluation_method =config_file.getProperty("evaluation_method")
         self.root_node=utils.strToBool(config_file.getProperty("root_node"))
 

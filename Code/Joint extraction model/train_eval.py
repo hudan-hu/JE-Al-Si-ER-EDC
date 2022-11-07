@@ -6,9 +6,6 @@ import tensorflow as tf
 import sys
 import os.path
 
-'Train the model on the complete train+eval set until the limit specified by ' \
-'(1) maximum epochs or (2) early stopping after executing train_es.py, is exceeded'
-
 
 def checkInputs():
     if (len(sys.argv) <= 3) or os.path.isfile(sys.argv[0])==False :
@@ -63,7 +60,7 @@ if __name__ == "__main__":
         iter_NER = 0
         best_REL_socre_F1 = 0
         iter_REL = 0
-        nepoch_no_imprv = 0  # for early stopping
+        nepoch_no_imprv = 0 
 
         for iter in range(config.nepochs + 1):
 
@@ -79,12 +76,3 @@ if __name__ == "__main__":
             if test_score > score:
                 score = test_score
                 iter_best = iter
-
-            print("\n- Test score {} in {} epoch\n".format(test_score, iter))
-
-            if es_epoch == iter:
-                print("- early stopping after {} epochs".format(iter))
-                break
-        print("\n-Best NER score {} in {} epoch\n".format(best_NER_socre_F1, iter_NER))
-        print("\n-Best REL score {} in {} epoch\n".format(best_REL_socre_F1, iter_REL))
-        print("\n-Best test score {} in {} epoch\n".format(score, iter_best))

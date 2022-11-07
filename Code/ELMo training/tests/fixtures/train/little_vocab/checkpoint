@@ -1,3 +1,0 @@
-model_checkpoint_path: "/home/ubuntu/Downloads/bilm-tf-master (2)/tests/fixtures/train/little_vocab/model.ckpt-3650"
-all_model_checkpoint_paths: "/home/ubuntu/Downloads/bilm-tf-master (2)/tests/fixtures/train/little_vocab/model.ckpt-2500"
-all_model_checkpoint_paths: "/home/ubuntu/Downloads/bilm-tf-master (2)/tests/fixtures/train/little_vocab/model.ckpt-3650"
