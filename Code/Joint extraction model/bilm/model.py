@@ -231,7 +231,7 @@ class BidirectionalLanguageModelGraph(object):
         n_chars = cnn_options['n_characters']
         if n_chars != 262:
             raise InvalidNumberOfCharacters(
-                "Set n_characters=262 after training see the README.md"
+                "n_characters=262"
             )
         if cnn_options['activation'] == 'tanh':
             activation = tf.nn.tanh
@@ -489,10 +489,10 @@ def dump_token_embeddings(vocab_file, options_file, weight_file, outfile):
     embedding_op = model(ids_placeholder)['token_embeddings']
 
     n_tokens = vocab.size
-    embed_dim = int(embedding_op.shape[2])# 16
+    embed_dim = int(embedding_op.shape[2])
 
 
-    embeddings = np.zeros((n_tokens, embed_dim), dtype=DTYPE)#[22,16]
+    embeddings = np.zeros((n_tokens, embed_dim), dtype=DTYPE)
 
     config = tf.ConfigProto(allow_soft_placement=True)
     with tf.Session(config=config) as sess:
